@@ -1,0 +1,145 @@
+--- Folia 1 ---
+Kapitulli 8
+Programimi
+--- Folia 2 ---
+Projektet konsistojnë në një numër detyrash e aktivitetesh dhe një nga cështjet kyce të planifikimit është të vendosim sesa kohë do të duhet që secila detyrë të realizohet dhe se në cfarë renditje do të realizohen ato. 
+Nuk është e mjaftueshme të vendosim sesa gjatë do të zgjasë cdo aktivitet vecmas për t’u realizuar sepse disa detyra nuk mund të fillojnë pa u përfunduar më parë disa të tjera.
+--- Folia 3 ---
+Programimi përfshin vendimet në lidhje me kohëzgjatjen dhe sekuencën e aktiviteteve.
+Kostot totale të projektit, në termat financiarë dhe të përpjekjeve të stafit nuk mund të vlerësohen derisa të identifikohet koha për përfundimin e rezultateve përfundimtare të projektit.
+--- Folia 4 ---
+KOHËZGJATJA DHE SEKUENCA
+Një vlerësim i përafërt mund të bëhet bazuar në eksperiencat e projekteve të ngjashme, ndërsa një pikturë tepër e qartë mund të sigurohet duke bërë llogaritjet e nevojshme për programimin e projektit. 
+Për ta bërë këtë, cdo detyrë duhet të vlerësohet nën termat e përmbajtjes së punës, numrit të stafit që do të jetë i nevojshëm për ta përfunduar atë dhe kohën që do të marrë secili aktivitet.
+--- Folia 5 ---
+Në shumë projekte, disa detyra formojnë themelet për detyrat e tjera dhe prandaj duhet të përfundohen në fillim. 
+Për shembull, dyshemeja duhet të shtrohet përpara se të mbi të të vendosen tapete ose sipërfaqe të tjera. 
+Kjo quhet “varësi”. Një detyrë është e varur nga mbarimi i tjetrës përpara se ajo të fillojë.
+--- Folia 6 ---
+Varësia është shumë e rëndësishme në planifikimin e një projekti sepse mund të jetë shumë e kushtueshme nëse koha e stafit harxhohet kot ndërkohë që ata mund të jenë të disponueshëm, por nuk mund të fillojnë të punojnë përpara se të tjerët të mbarojnë detyrat e tyre. 
+Ekziston edhe mundësia e vonesave nëse vlerësimet e bëra rreth kohëzgjatjes së aktiviteve dhe detyrave provohet se janë gabim.
+--- Folia 7 ---
+Dy teknika ju ndihmojnë në planifikimin e kohës dhe sekuencës. 
+Gantogrami, ju mundëson të siguroni një paraqitje të detyrave të projektit dhe kuadrit kohor për përmbushjen e tyre. 
+Kjo është një teknikë e lehtë për t’u përdorur dhe jep në mënyrë të shpejtë një pikturë të sekuencës së detyrave kryesore.
+--- Folia 8 ---
+Gantogrami nuk është shumë i dobishëm për të identifikuar detaje mbi varësinë ose impaktin potencial të vonesave në sekuencën e detyrave. 
+Një teknikë e quajtur “analiza e rrugës kritike” përdoret shumë shpesh për të programuar detyrat dhe për të identifikuar implikimet potenciale të cdo varësie.
+--- Folia 9 ---
+NDËRTIMI I NJË GANTOGRAMI
+Një gantogram tregon të gjitha fazat kyce të projektit dhe kohëzgjatjen e secilit në formë tabele.
+Kohëzgjatja vendoset në fillim ndërsa detyrat listohen në anën e majtë, të renditura që nga detyra e parë e në vazhdim. 
+Kutizat në tabelë janë ngjyrosur për të treguar se sa kohë do të marrë secila detyrë për t’u realizuar.
+Kutiza e detyrës së fundit përfundon në anën e djathtë për të treguar se kur do të përfundojë projekti.
+--- Folia 10 ---
+Një gantogramë mund të ndërtohet shpejt e lehtësisht dhe zakonisht bëhet në fazat e para për të siguruar një panoramë të kohëzgjatjes që do të dojë i gjithë projekti për t’u realizuar.
+Është e lehtë të shikohet nëse projekti do të dojë më shumë kohë për t’u përfunduar sesa ishte parashikuar dhe nëse planet fillestare janë të arritshme apo jo. 
+Një gantogramë më e detajuar zakonisht përfundohet menjëherë sapo janë përcaktuar objektivat kryesorë.
+--- Folia 11 ---
+Ju mund të shtoni edhe informacione të reja në gantogramë, për shembull: 
+Piketat kyce/momente kyce/milestones - ju mund të preferoni t’i tregoni ato me simbole sic është për shembull, një trekëndësh; 
+Takimet e projektit – Këto mund të tregohen përmes një simboli tjetër, për shembull një rreth; 
+Datat e rishikimeve kryesore.
+--- Folia 12 ---
+PËRDORIMI I PROGRAMEVE KOMPJUTERIKE PËR TË PLANIFIKUAR DHE PROGRAMUAR
+Gantogramat janë shumë të lehta të ndërtohen edhe me dorë, por kjo nuk të ofron të njëjtin nivel fleksibiliteti gjatë procesit të monitorimit sic do të ta jepte një paketë kompjuterike. 
+Programe të ndryshme janë të disponueshme për të asistuar menaxherët e programeve në kontroll dhe programim. 
+Për më tepër, menjeherë pasi të dhënat janë hedhur, programi të ndihmon të punosh me skenare “Cfarë ndodh nëse???” duke ju treguar se cfarë do të ndodhë nëse një fazë kyce vonohet ose përshpejtohet.
+--- Folia 13 ---
+Një numër programesh kompjuterike janë hartuar për tju ndihmuar të prodhoni një plan projekti.
+Shpesh këto janë të fuqishme e komplekse dhe mund të kërkojnë edhe kohë për t’i mësuar sesi përdoren. 
+Në fazat fillestare të projektit, njerëzit zakonisht e fillojnë programimin në letër ose në ndonjë program të thjeshtë kompjuterik. 
+Menjëherë sapo janë bërë skicimet e planit, programet komjuterike sigurojnë një mënyrë tepër fleksible për të menaxhuar projektet nëse ju keni mësuar sesi t’i përdorni ato.
+--- Folia 14 ---
+Për ata, puna e të cilëve përfshin menaxhimin e projektit do të jetë një ide e mirë zhvillimi i njohurive dhe familjarizimi me disa programe të disponueshme. 
+Disa organizata përdorin një protokoll të menaxhimit të projektit për të gjitha projektet e tyre për t’u siguruar se ka një përqasje të ngjashme të menaxhimit të projektit dhe për të mundësuar që një regjistër i projekteve të jetë i disponueshëm për menaxherët.
+--- Folia 15 ---
+IDENTIFIKIMI I RRUGËS KRITIKE
+Rruga kritike është sekuenca e detyrave që mundësojnë që projekti të përfundohet në kohën më të shkurtër të mundur. 
+Ajo identifikon se cilat detyra duhet të kryhen përpara se të fillojnë të tjerat.
+Identifikimi i rrugës kritike është i rëndësishëm në projekte të cilat duhet të përfundohen në kohën më të shkurtër të mundshme.
+--- Folia 16 ---
+Për të identifikuar rrugën kritike duhet të llogaritet kohëzgjatja që do të marrë cdo detyrë për t’u realizuar. 
+Më pas duhet të identifikohen varësitë. 
+Mund të ketë varësi në secilën prej sekuencave të aktiviteteve që kontribuojnë në përfundimin e projektit. 
+Struktura e ndarjes së detyrave është zakonisht pika e nisjes duke qënë se identifikon paketat e aktiviteve dhe detyrat individuale.
+--- Folia 17 ---
+Struktura e plotë e ndarjes së punëve do të jetë e nevojshme për tju mundësuar të vlerësoni se sa kohë do të marrë cdo detyrë për t’u realizuar.
+Nëse puna kërkon shpërndarjen e materialeve ose nëse kërkon kohë për të përfunduar procese të specializuara, mund tju duhet të bëni disa kërkime përpara se të bëni një vlerësim të saktë.
+Është e vlefshme në këtë fazë të shpenzoni kohë duke u përpjekur të vlerësoni sa më saktë të jetë e mundur sepse planet e programimit do të bazohen në këtë informacion.
+--- Folia 18 ---
+Niveli i detajeve në planifikimin e programit varet si gjithmonë nga kompleksiteti i projektit. 
+Njerëzit të cilët janë marrë më parë me organizimet e ndryshimeve mund t’i shohin këto lista të planifikimit me horror duke menduar se i bëjnë gjërat të duken më të komplikuara sec janë në të vërtetë. 
+Një këndvështrim tjetër është se nëse një person realizon të gjitha detajet në mendjen e tij, do të jetë shumë e vështirë për dikë tjetër të kuptojë se cfarë po ndodh ose të bëjë dicka të dobishme në mungesë të tyre.
+--- Folia 19 ---
+Qasjet e planifikimit mund të zgjidhen sipas mënyrës në të cilën sponsori kërkon që të realizohet projekti. 
+Nëse kërkohet mbështetje e madhe dhe bashkëpunim është jashtëzakonisht e rëndësishme të përhapim informacionin gjerësisht dhe të përfshijmë edhe të tjerët në marrjen e vendimeve që do të prekin pikërisht ata.
+--- Folia 20 ---
+Menjëherë pasi është përcaktuar koha për cdo aktivitet mund të ndërtohet një program i detajuar. 
+Me shumë gjasa ju do të keni ndërtuar një gantogramë dhe do të doni ta rishikoni nën dritën e informacionit që është tashmë i disponueshëm.
+Gantograma e rishikuar mund tju japë informacion të mjaftueshëm për të ecur përpara pa programime të mëtejshme nëse kohëzgjatja në projekt nuk përbën një shqetësim i vecantë (pra, nuk është cështje kritike).
+--- Folia 21 ---
+Nëse kuadri kohor është i rëndësishëm ka një teknikë që mund tju ndihmojë të jeni më precizë rreth kohëzgjatjes së secilit element dhe sekuencës në të cilën ato duhet të realizohen në mënyrë që të përfundohet i gjithë projekti në kohën më të shkurtër të mundshme. 
+Kjo quhet “Analiza e rrugës kritike” dhe i referohemi zakonisht si CPA. 
+Rruga kritike është koha më e shkurtër e mundshme në të cilën një projekt duhet të përfundohet menjëherë sapo kohëzgjatja e cdo detyre dhe sekuenca e nevojshme të jenë marrë parasysh.
+--- Folia 22 ---
+Aktivitetet dhe kohëzgjatja e tyre mund të vizatohen në një diagramë që tregon rrugën që do të duhet të ndjekë cdo aktivitet dhe marrëdhëniet me aktivitetet e tjera. 
+Në mënyrë të vecantë, kjo diagramë tregon pikërisht varësisë, pra atë që një aktivitet nuk mund të fillojë pa përfunduar tjetri. 
+Zakonisht është impakti i varësisë që e ngadalësojnë projektin sepse më parë duhet të identifikohen varësitë dhe sekuenca në mënyrë që të përcaktohet rruga kritike.
+--- Folia 23 ---
+DIAGRAMA
+--- Folia 24 ---
+Mund tju duhet ta vizatoni diagramën disa herë përpara se të mund të tregoni sekuencën qartësisht. 
+Sekuenca e aktiviteteve në paketën 1 (Përgatitja e vendit) është më e thjeshta për t’u vizatuar sepse cdo aktivitet është i varur nga aktiviteti i mëparshëm. Për shembull: 
+1.1 (studio zonën) duhet të vijë e para; 
+1.2 (planifiko ndryshimet) nuk mund të ndodhë përpara se të jetë i disponueshëm informacioni nga studimit i vendit dhe përpara se të merren vendimet e nevojshme rreth ndërtimit; 
+Vlerësimet e kostove të ndërtimit nuk mund të realizohen përpara se të përfundohen planet dhe të prodhohen specifikimet e nevojshme;
+--- Folia 25 ---
+Duhet të bëhen 3 vlerësime dhe duhet të merret një vendim se cili ndërtues do ta fitojë kontratën përpara se të bëhet marrëveshja; 
+Blerja e materialeve të ndërtimit nuk mund të bëhet përpara se të firmoset kontrata sepse zakonisht bëhet nga ndërtuesit në bazë të specifikimeve; 
+Të gjitha këto aktivitete duhet të përfundohen përpara se të fillojë ndërtimi
+--- Folia 26 ---
+Paketa 2 (Mobilo dhe pajis zyrën) nuk mund të bëhet përpara se të planifikohen ndryshimet sepse këto përcaktojnë hapësirën në të cilën do të vendosen mobiljet dhe paisjet. 
+Stafi do të dojë të kuptojë mundësitë dhe pengesat e hapësirës në zyrën e re përpara se ata të komentojnë në detaje për nevojat për moblim dhe paisje. 
+Është gjithashtu më e sigurt të presim të planifikohen ndryshimet përpara se të fillojmë me paketën 3 (përgatitja e shërbimit) sepse stafi i përfshirë mund ta ketë të vështirë të diskutojë ndryshimet në praktikat e punës përpara se të kenë një ide rreth kohëzgjatjes së shkëputjes së shërbimit.
+--- Folia 27 ---
+Një numër aktivitetesh të paketën 2 dhe 3 mund të realizohen në të njëjtën kohë që po ndërtohet godina ndërsa disa të tjera nuk mund të ecin përpara deri sa zyra të jetë gati për t’u përdorur.
+Në këtë fazë, mobiljet mund të vendosen në punë (2.7) nëse janë lëvizur nga vendi tjetër ose janë blerë të reja. 
+Në të njëjtën mënyrë, paisjet mund të vendosen në punë (2.8) menjëherë sapo të jenë bërë instalimet elektrike, ndërsa disa paisje kërkojnë që më parë të jenë vendosur edhe mobiljet. 
+Gjatë javës së lëvizjes, shërbimi i zyrës do të mbulohet nga një shërbim i përkohshëm (3.4) i cili duhet të arranzhohet/arranged dhe të ketë burime për atë periudhë.
+--- Folia 28 ---
+Shërbimet nuk mund të ofrohen nga zyra e re derisa të gjitha aktivitetet të kenë përfunduar.
+Kjo diagramë tregon sekuencën në të cilën këto duhet të ndodhin dhe kohëzgjatjen që do të marrë cdo aktivitet për t’u realizuar. 
+Për të gjetur rrugën kritike, ju shikoni për fazat në të cilat dicka duhet të përfundojë përpara se të tjerat të nisin. 
+Në këtë diagramë 1.1 (studimi i zonës) duhet të fillojë i pari, më pas të ndiqet nga 1.2. 
+Menjeherë sapo 1.2 (planifikimi i ndryshimeve) të jetë përfunduar, një numër aktivitetesh të tjera mund të fillojnë.
+--- Folia 29 ---
+Këto përfshijnë 1.3, 2.1 ,2.2, 2.4, 2.5, dhe 3.1. Të gjitha këto aktivitete kanë rrugë që të cojnë në përfundimin e ndërtimit të godinës dhe cdo rrugë merr një kohë të caktuar për të arritur në atë fazë. 
+Aktivitetet e paketës 1 marrin kohën më të madhe krahasuar me të tjerat, 1.3, 1.4, 1.5 dhe 1.6 që marrin 8 javë në total. Paketa tjetër më e gjatë e aktiviteteve merr më shumë se 5 javë. 
+Aktiviteti 3.5 (përgatitja e rotacionit të stafit) është paksa i ndryshëm sepse nuk do të jetë i nevojshëm deri në momentin kur zyra e re të jetë gati për stafin, për të filluar ofrimin e shërbimit nga aty, megjithatë këto cështje rregullohen që më parë sepse mund të shkaktojnë ndjenja shumë të forta.
+--- Folia 30 ---
+Një fazë vendimtare është arritur në momentin kur ka përfundur ndërtimi dhe paisjet e mobiljet mund të vendosen në punë.
+Gjatë kësaj jave shërbimi i përkohshëm duhet të ofrohet dhe duhet të infomohet cdokush që kërkon informacion mbi zyrën e re. 
+Rruga kritike është vija që merr më shumë kohë për të arritur në cdo pikë në të cilën aktivitetet e ardhshme janë të varura. 
+Vija në këtë projekt është 1.1, 1.2, 1.3, 1.4, 1.5, 1.6. 
+Rruga kritike shkon deri në 13 javë, në fund të të cilave zyra e re është gati për t’u zënë dhe përdorur.
+--- Folia 31 ---
+Nëse koha e përfundimit është cështje kritike, është e rëndësishme që në fazën e planfikimit të kemi ide rreth kohës që do të marrë një projekt për t’u përfunduar. 
+Në një projekt të kësaj natyre, mund ta reduktojmë pak rrugën kritike duke investuar më shumë burime.
+--- Folia 32 ---
+Nëse bëni ndryshime në program për të reduktuar kohën që do të marrë një ose disa aktivitete, bëni kujdes të merrni në konsideratë edhe ndikimin që kjo ka në rrugën kritike. 
+Për shembull, në këtë diagramë nuk do të krijojë ndonjë avantazh realizimi më shpejt i një aktiviteti që nuk është në rrugën kritike.
+Megjithatë, nëse reduktohet koha e mjaftueshme në aktivitetet e rrugës kritike, vetë rruga kritike mund të ndryshojë.
+--- Folia 33 ---
+Në këtë shembull, nëse rruga kritike do të ndryshohej për të marrë më pak se 10 javë, rruga e 1.1, 1.2, 3.1 dhe 3.5 do të bëhen rrugë kritike, por ka gjithashtu edhe dy rrugë të tjera që do të marrin 10 javë (rrugët për vënien në punë të mobiljeve dhe paisjeve). 
+Të gjitha kohëzgjatjet e vlerësuara në këto rrugë duhet të merren në konsideratë në mënyrë që të përcaktohet nëse mund të reduktohet ndonjë kohëzgjatje tjetër në mënyrë që të identifikohet rruga kritike më e shkurtër e mundshme.
+--- Folia 34 ---
+Megjithatë është thelbësore të identifikohen varësitë, është shumë e rëndësishme të përcaktohen ato që janë të pashmagshme.
+Nëse një aktivitet është përmbushur përpara një tjetri, nuk është domosdoshmërisht thelbësore të përfundohet ai i pari dhe mundet që të mbivendosen aktivitetet pa problem. 
+Është avantazh për të reduktuar numrin e varësive sepse kjo do të rrisë fleksibilitetin në implementimin e projektit.
+--- Folia 35 ---
+Në projekte më komplekse është e zakonshme të përdoren programe kompjuterike që ju ndihmojnë të ndërtoni këto diagrama dhe mundësojnë që detajet e detyrave të përfshihen në këto aktivitete. 
+Avantazhi më i madh i programeve kompjuterike është mundësia për të provuar impaktin e bërjes së ndryshimeve më shpejt sesa do të ishte nëse këto diagrama do të ndërtoheshin me dorë.
+--- Folia 36 ---
+Megjithatë, koha që duhet për të mësuar këto programe është dicka që duhet marrë në konsideratë nga dikush që shpesh nuk do t’i duhet të menaxhojë projekte komplekse. 
+Kjo është gjithashtu edhe cështje kuptueshmërie dhe shumë njerëz kanë kuptuar se ndërtimi i diagramës me dorë i ndihmon ata të mendojnë rreth të gjitha cështjeve në një mënyrë që jo domosdoshmërisht ndodh kur hidhen informacionet në kompjuter.

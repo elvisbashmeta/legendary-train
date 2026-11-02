@@ -1,0 +1,126 @@
+--- Folia 1 ---
+LEKSIONI 9 
+TEMA : IMPLEMENTIMI I PROJEKTEVE
+--- Folia 2 ---
+Implementimi është një moment tepër I rendesishem. Është casti në të cilin i gjithë planifikimi kthehet në rezultate praktike. Në këtë fazë natyra e punës së menaxherëve të projektit ndryshon nga imagjinimi sesi do të funksiononin gjërat drejt mbështetjes së aktiviteteve. 
+
+
+
+
+
+Fokusi i vëmendjes lëviz nga zhvillimi i kornizave të punës në monitorimin real të aktiviteteve për t’u siguruar që cdo gjë po ecën përpara ashtu sic ishte planifikuar. Vëmendja e atyre që menaxhojnë projektin nuk duhet të shkëputet kurrë larg planifikimit sepse ai është mekanizmi përmes së cilit ne jemi në gjendje të mbajmë ekuilibrat e kohës, kostos dhe cilësisë.
+--- Folia 3 ---
+HARTIMI I PLANIT TË IMPLEMENTIMIT
+Plani i implementimit konsiston kryesisht në planet e tjera që janë përfunduar tashmë. Do t’ju duhet të monitoroni progresin në përputhje me këto plane dhe do të ndërmerrni veprime për të rishikuar planet ndërkohë që ngjarjet ndërpresin progresin drejt arritjes së objektivave të projektit. Planet që duhet të keni në këtë fazë janë: 
+ Përmbledhjen e projektit, me marrëveshjen rreth qëllimeve dhe objektivave të projektit; 
+ Një listë të produkteve të dërgueshme/Deliverables; 
+ Marrëveshjen sesi do të menaxhohet, raportohet dhe rishikohet projekti;
+--- Folia 4 ---
+ Vlerësimet dhe buxhetin; 
+ Detaje të njerëzve të cilët do të punojnë në projekt; 
+ Detaje të akomodimit, paisjeve dhe materialeve të disponueshme; 
+ Programet, ndoshta të përshkruara në diagrama logjike, gantograma ose diagrama të rrugës kritike; 
+ Risku dhe plani i kontigjencës.
+--- Folia 5 ---
+PLANI I VLERESIMIT
+Plani i vlerësimit mund të merret në konsideratë në takimet e rishikimit. Është shumë e rëndësishme të mendohet rreth tij përpara se projekti të eci shumë përpara sepse ju më tepër mund të doni të mblidhni të dhëna rreth performancës dhe problemeve të tjera në kohën që ecni përpara, sesa të përpiqeni t’i mbani mend këto më vonë.
+--- Folia 6 ---
+STRUKTURA E EKIPIT
+Ekipet kanë shumë vështirësi për të punuar efektivisht nëse janë shumë të mëdha dhe në këto raste anëtarët nuk mund të punojnë në mënyrë të përshtatshme. 
+Numri i duhur mendohet të jetë 6-8 persona.
+--- Folia 7 ---
+Liderat e ekipeve gjithashtu do të formojnë një ekip në vetvete për koordinimin e projektit. 
+Në disa projekte mundet të mos ketë një ekip por, në vend të tij të ketë një numër individësh ose grupesh që japin kontribute të specializuara në kohën e duhur.
+ Në këtë rast, detyra e koordinimit të inputeve është jetësore.
+--- Folia 8 ---
+Nëse ka nevojë të rekrutohen anëtarë në ekip, ky proces do të ndikojë në identifikimin e kritereve të seleksionimit. Nëse disa nga anëtarët e ekipi janë identifikuar tashmë ose nëse është emëruar në detyrë lideri i ekipit ekziston mundësia për t’i përfshirë këta në përcaktimin e strukturës së ekipit. 
+Në këtë fazë, mund të caktohen përgjegjësitë kryesore.
+--- Folia 9 ---
+Nëse projekti është kompleks, disa njerëz do të duhet të mbajnë përgjegjësitë për supervizimin e aktiviteteve. Menjëherë sapo është rënë dakord për strukturën e ekipit do të jetë më e lehtë të vendoset se kush do të mbajë nivelet e ndryshme të autoritetit. Kjo përfshin identifikimin se kush ka autoritetin për aprovimin e burimeve dhe punës së përfunduar, kush duhet të konsultohet e për cfarë dhe kush duhet të informohet. 
+
+
+Menaxheri i projektit do të mbajë të gjithë përgjegjësinë për të siguruar se planet janë realizuar. Menjeherë sapo të jenë vendosur nivelet e autoritetit nuk është më e vështirë të vendoset sesi do të regjistrohet aprovimi, sesi do t’i tregohet ayre që duhet të informohen dhe sesi do të arranxhohet/arrange konsultimi. Të gjitha këto aktivitete përfshijnë nëndetyra të cilat do t’i ndahen individëve në ekip.
+--- Folia 10 ---
+PLANIFIKIMI I PËRGJEGJËSIVE TË EKIPIT
+Është e rëndësishme të bëhet një ndarje e qartë e roleve dhe përgjegjësive për secilën nga detyrat dhe fazat kryesore. Kjo siguron se “cdo copëz pune zotërohet nga dikush” që do të jetë përgjegjës për përmbushjen e saj ose që do të kërkojë ndihmë nëse lind ndonjë problem. 
+
+
+Planifikimi i këtyre përgjegjësive gjithashtu ndihmon për të siguruar që përgjegjësia e përgjithshme për punën është shpërndarë në mënyrë të përshtatshme midis anëtarëve të ekipit.
+--- Folia 11 ---
+Përgjegjësite e anëtarëve të stafit
+Është gjithashtu e rëndësishme të vendosim linja të qarta të përgjegjësisë për secilin anëtar të ekipit. Këto përgjegjësi do të varen nga madhësia dhe kompleksiteti i projektit, megjithatë cdo person duhet të dijë:
+   -Cfarë pritet prej tij, ndoshta të shkruara në formën e objektivave me një kuadër kohor të përcaktuar; 
+  - Shkallën e autoritetit që kanë për të marrë vendime rreth punës së tyre;
+   -Personi që do të jetë menaxheri i linjës gjatë kohëzgjatjes së projektit; 
+   - Arranzhimet/arrangements dhe shpeshtësinë e raportimit dhe rishikimit të progresit.
+--- Folia 12 ---
+Nëse projekti është mjaftueshëm i madh sa për të pasur lidera të ekipeve për aktivitete të ndryshme, është e rëndësishme të kontrollojmë se secili prej tyre kupton sesi përputhet puna e ekipit të tyre me planin e përgjithshëm. 
+
+Është e dobishme t’i jepet cdo lideri seksioni i tyre i planit ku detajohet cfarë duhet të arrihet në data specifike. 
+
+Piketat kyçe të identifikuara që herët në plane do të sigurojnë një listë të dobishme kontrolli të rezultateve dhe datën në të cilën duhet të përfundohet secila.
+--- Folia 13 ---
+Kuptimi i planit
+Shpesh është e vështirë të fillojë puna në projekt. Fokusi ndryshon nga planifikimi në veprime. Edhe kur janë ndarë detyrat dhe është përfunduar programimi, stafi nuk do të fillojë automatikisht të punojë në projekt.
+
+Është zakonsiht në dorën e menaxherit të projektit si një lider i projektit për të siguruar që të fillojë puna. Është e rëndësishme të sigurohemi se cdokush e di se kush do të realizoje detyrat dhe kur duhet të fillojnë. 
+
+Stafi duhet të jetë i lirë të fillojë punën dhe paisjet dhe materialet thelbësore duhet të jenë të disponueshme. Pavarësisht kësaj, është shpesh e nevojshme ta mbështesim stafin për të filluar punën
+--- Folia 14 ---
+Mund të jetë e dobishme të fillojmë me një takim për të siguruar se cdokush e kupton planin dhe se cdokush kupton se në cilën pikë kontributi i tyre përputhet me të gjithë projektin. 
+Planifikimi zakonisht fokusohet në kuadrin kohor e programimin dhe anëtarët e ekipit mund të mos jenë të aftë të interpretojnë planin për të kuptuar ekzaktësisht se cfarë duhet të bëjnë.
+--- Folia 15 ---
+Sapo të jeni të sigurt se cdokush ka kuptueshmëri të mjaftueshme për planet mund të filloni të punoni. 
+Personat përgjegjës kyc për realizimin e detyrave duhet të dinë patjetër se cfarë dëshirohet dhe mund tju duhet tja konfirmoni këtë cdo individi në mënyrë të vecantë.
+--- Folia 16 ---
+Burimet e një projekti
+Puna do të pengohet ose ndërpritet nëse materialet dhe paisjet e nevojshme nuk janë të disponueshme ose nëse akomodimi për projektin nuk është rregulluar ende. Menaxheri i projektit është zakonisht përgjegjës për alokimin dhe përdorimin e burimeve.
+Disa burime duhet të menaxhohen nga njerëz të kualifikuar. 
+Për shembull, nëse projekti kërkon përdorimin e drogave të palejuara ka kërkesa statusore që duhet të shqyrtohen. Në ndarjen e përgjegjësive në projekt mund të jetë e nevojshme të identifikohen njerëz me një kualifikim të caktuar ose eksperiencë për të menaxhuar aspekte të specializuara të punës.
+--- Folia 17 ---
+MENAXHIMI I AKTIVITETEVE TË PROJEKTIT GJATË IMPLEMENTIMIT
+Aktivitet kryesore që duhet të marrë në konsideratë një menaxher gjatë implementimit janë: 
+   
+Menaxhimi i komunikimit dhe informacionit; 
+Rishikimi i progresit përmes monitorimit dhe rishikimit  të progresit në përputhje me planin;
+Kontrollimin e progresit - duke përdorur informacion e zhvilluar përmes monitorimit dhe rishikimit, për të vendosur se kur duhet të bëhen veprime për të sjellë progres të aktiviteteve të afërta me planin ose për të ndryshuar planin;
+--- Folia 18 ---
+Ndërmarrja e aksionit në cdolloj mënyre është i përshtatshëm kur është e nevojshme; 
+ Menaxhimi i ndryshimit, menaxhimin edhe të atyre ndryshimeve që rezultojnë nga realizimi i aktiviteteve të projektit në mjedisin e tij dhe ndryshimeve të bëra në aktivitetet ose planet e projektit gjatë implementimit.
+--- Folia 19 ---
+informacioni
+Informacioni kyç për të komunikuar ndërkohë që ka filluar implementimi është element i planit që do të përfundohet nga cdo individ ose ekip. Edhe nëse njerëzit kanë qënë të përfshirë në zhvillimin e planeve, ju s’mund të supozoni se ata e kuptojnë të gjithë “pikturën” ose edhe një pjesë të saj, që i takon të jetë pikërisht përgjegjësia e tyre.
+
+ Disa menaxherë projektesh tregojnë një kujdes të vecantë për t’u siguruar se stafi kupton se cfarë pritet që ata të bëjnë, standartet e pritura dhe kohëzgjatjen që do të duhet të marrë cdo aktivitet për t’u realizuar
+--- Folia 20 ---
+Kontrolli dhe monitorimi
+Një pjesë e madhe e punës së një menaxheri projekti fokusohet në monitorim dhe kontroll. 
+
+Monitorimi është mbledhja e rregullt e informacionit rreth progresit të aktiviteteve. Informacioni i mbledhur duhet të krahasohet me progresin e planifikuar në mënyrë që të identifikohet ndonjë diferencë.
+
+Nëse puna na del nga programi atëherë do jetë e nevojshme të ndërmerren veprime për të kthyer projektin nën kontroll. Ky është një set tepër vendimtar aktivitetesh gjatë implementimit sepse është mënyra e vetme përmes së cilës një menaxher projekti mund të sigurohet se projekti do të përfundoje me sukses në kohë, brenda buxhetit dhe të arrijë objektivat e synuara.
+--- Folia 21 ---
+Ndryshimet gjate implementimit të projektit
+Do të ketë sigurisht ndryshime gjatë fazës së implementimit të projektit. Të gjitha aktivitetet e projektit në vetvete janë planifikuar për të prodhuar një ndryshim. Këto janë shpesh komplekse dhe të vështira për t’u menaxhuar por, planifikimi i kujdesshëm, monitorimi dhe kontrolli do tju ndihmojnë t’i menaxhoni këto aspekte efektivisht. 
+
+Lidershipi, puna në ekip dhe menaxhimi i performancës gjithashtu kontribuojnë në mbajtjen e fazës së implementimit në rrugë pozitive dhe produktive.
+--- Folia 22 ---
+Llojet e ndryshimeve ne proçesin e implementimit
+Gjithashtu, mund të ketë ndryshime në mjedisin imediat të projektit që ndikojnë aktivitetet dhe objektivat e projektit. 
+
+Në disa raste, ndryshimet e jashtme mund të parashikohen dhe mund të jetë menduar rreth tyre kur është plotësuar regjistri i risqeve. Nëse rasti është i tillë, do të duhet pak udhëheqje rreth veprimit që duhet ndërmarrë.
+
+Nëse ndryshimi nuk ishte parashikuar dhe ka një domethënie të vecantë, një menaxher projekti do të duhet të kërkojë këshillat e sponsorit ose menaxherit të lartë përpara ndërmarrjes së një veprimi që mund të ndryshojë drejtimin ose ekuilibrin e projektit.
+--- Folia 23 ---
+Mbajtja e një panorame të qartë të projektit
+Pozicioni i menaxherit të projektit është i privilegjuar në atë që ai/ajo ka akses në cdo aspekt të projektit. Në një farë mënyre, kjo nënkupton se mund të jetë një rol i vetëm.
+
+Konfidencialiteti është thelbësor edhe në menaxhimin formal të informacionit edhe në menaxhimin e informacionit të “lehtë”. Shumë menaxherë projektesh, edhe nga ata me shumë eksperiencë, kanë ndonjëherë nevojë për mbështetje nga dikush që mund të ketë një perspektivë më të ftohtë. Mund të jetë shumë e dobishme të kenë një mentor me të cilin të diskutojnë gjërat në konfiedencë.
+--- Folia 24 ---
+Kjo gamë përgjegjësish mund të duket e papërballueshme për një person që menaxhon projektin për herë të parë ose edhe për dikë me pak eksperiencë. 
+
+Zakonisht është roli i menaxherit të projektit të fillojë të gjithë këto aktivitete dhe të sigurojë që ato të ndodhin, por megjithatë ato nuk duhet të realizohen vetëm nga një person.
+--- Folia 25 ---
+Është e zakonshme të realizohen rishikimet me përfshirjen e personave kyc në mënyrë që të merren në konsideratë perspektiva të ndryshme. Këta njerëz shpesh do të jenë ata që do të realizojnë amendamentet (përmirësimet), sapo grupi të ketë vendosur se cfarë veprimi duhet të ndërmerret. 
+
+Shqetësimi kryesor i menaxherit të projektit gjatë implementimit është të mbajë një panoramë të të gjithë projektit dhe të sigurojë që ekuilibrat e kohës, kostos dhe cilësisë po ruhen ndërkohë që aktivitetet e projektit ecin përpara drejt një përfundimi të suksesshëm
