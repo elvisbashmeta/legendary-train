@@ -1,0 +1,258 @@
+--- Folia 1 ---
+Leksioni 4
+Percaktimi/Korniza/qellimi i projektit
+--- Folia 2 ---
+Percaktimi i projektit vjen pas percaktimit te qellimit;
+
+ Projekti kthehet ne nje dokument te shkruar;
+
+ “Termat e references” : dokumenti i percaktimit, kornizes, te projektit, project definition document;
+
+ Qellimi i permbledhjes se projektit eshte detajimi saktesisht se cfare ka si synim te prodhoje projekti, burimet dhe kundershtite brenda te cilave ato duhet te arrihen.
+--- Folia 3 ---
+PUNA ME SPONSORIN
+Sponsori eshte personi apo grupi i personave qe kane kerkuar projektin;
+
+ Sponsori ka pergjegjesine themelore per financimin;
+
+ Sponsori eshte personi qe do te thote nese projekti ka qene ose jo i sukseshem;
+
+ Eshte e rendesishme qe te  sigurohemi se kemi kuptuar plotesisht ate qe sponsori pret qe projekti te arrije;
+
+ Per shkak te ndryshimeve qe mund te ndodhin , eshte e rendesishme pasja e nje marreveshje te shkruar;
+--- Folia 4 ---
+PUNA ME SPONSORIN
+Marreveshja dhe permbledhja e projektit jane licensa per te vepruar ne emer te sponsorit;
+
+ Duhet te behet dokumentimi i ndryshimeve kur ka te tilla dhe konsultimi me sponsorin;
+
+ Edhe nese projekti eshte ideja juaj dhe nuk keni nevoje per burime shtese, prania e nje lloj “bordi” do te siguronte kendveshtrime alternative;
+--- Folia 5 ---
+A DO TE MBESHTETET PROJEKTI?
+E rendesishme – konsultimi me te gjitha stakeholdersat;
+
+ Njerezit shpesh nuk jane te gatshem te kerkojne opinione nga stakeholdersat qe mund te sjellin kendveshtrime te reja;
+
+ Shume shqetesime rreth projektit mund te parashikohen dhe te shmangen nese kuptohen qe ne fillim kendveshtrimet e stakeholdersave;
+--- Folia 6 ---
+SHEMBULLI 4.1 – CESHTJE TE IDENTIFIKUARA NE ZHVILLIMIN E PERMBLEDHJES SE PROJEKTIT
+Nje spital ne Midland eshte bashkuar me nje spital te vogel, duke sjelle krijimin e 15 drejtorive klinike;
+
+ Pas disa muajsh keto drejtori u perpoqen te implementonin nje element menaxherial ne rolin e tyre;
+
+ Zgjidhja me e pare dhe me e lehte dukej te kishte lidhje me hartimin e nje programi zhvillimi menaxherial;
+
+ Megjithate, menaxheri i zhvillimit organizativ vendosi qe me pare te intervistonte nje kampion rastesor te drejtoreve per  identifikimin e nevojave specifike;
+--- Folia 7 ---
+SHEMBULLI 4.1 – CESHTJE TE IDENTIFIKUARA NE ZHVILLIMIN E PERMBLEDHJES SE PROJEKTIT
+
+ Doli qe nje numer i konsiderueshem i tyre ndjenin te nevojshme zhvillimin ne fushat e meposhtme :
+                - Menaxhim konflikti;
+                - Menaxhim performance;
+                - Menaxhim buxhetor;
+                -Menaxhim i kohes;
+
+ Nje numer i konsiderueshem ceshtjesh te tjera u identifikuan : 
+                  -Qartesimi i rolit;
+                  -Njohjen e organizates se re;
+                  -Ngritjen e marredhenieve dhe rrjeteve te marredhenieve;
+                  -Nje kuptueshmeri te te gjithe botes,axhendes qeveritare dhe 
+                   menyres sesi t’i pergjigjeshin efektivisht targetit dhe
+                   kerkesave;
+--- Folia 8 ---
+SHEMBULLI 4.1 – CESHTJE TE IDENTIFIKUARA NE ZHVILLIMIN E PERMBLEDHJES SE PROJEKTIT
+
+ Disa nevoja qe ishin baze erdhen si suprize, per shembull : “Ekzaktesisht cfare detyrimesh ka roli im si drejtor klinik?”.
+
+ Zhvillimi i intervistave beri te mundur hartimin e programit te zhvillimit te bazuar ne nevoja reale dhe specifike dhe jo ne supozime.
+--- Folia 9 ---
+HARTEZIMI I STAKEHOLDERSAVE
+
+ Stakeholdersat perfshijne : 
+             -Sponsorin apo klientin;
+             -Ekipin e projektit;
+             -Menaxhere te tjere ne organizate;
+             -Individet ose grupet te cilet do te preken nga projekti;
+             -Individet qe ndikojne direkt tek projekti;
+             -Njerezit qe veprojne si perfaqesues te publikut te gjere ose 
+               grupeve me interes ne projekt;
+             -Organizatat e tjera;
+             -Borde profesionale,institutet,sindikatat dhe cdo lloj organizate 
+              formale qe mund te kene interes per shkak te natyres se 
+              projektit.
+--- Folia 10 ---
+HARTEZIMI I STAKEHOLDERSAVE
+
+Secili nga stakeholdersat mund te afroje kendveshtrime te ndryshme ose mund te mos e shprehe hapur ate;
+
+  Ka metodologji formale te menaxhimit te projekteve, qe kane formalizuar procedura per t’u marre me ceshtjet e stakeholdersave permes nje bordi dhe mbledhjeve te rregullta;
+
+ PRINCE (Projekte ne nje mjedis nen kontroll) eshte nje metode e strukturuar per menaxhim efektiv te projekteve 
+
+ Karakteristikat kryesore te PRINCE jane:
+           -Fokusi mbi justifikimin e biznesit; 
+           -Strukture organizative e hartuar per ekipin e
+            menaxhimit te projektit;
+           -Qasja e planifikimit e bazuar ne produktin qe thekson rezultatet;
+           -Theksimi i ndarjes se projektit ne faza te menaxhueshme dhe kontrollueshme;
+           -Fleksibiliteti i aplikimit ne nje nivel te pershtatshem te projektit;
+--- Folia 11 ---
+HARTEZIMI I STAKEHOLDERSAVE
+
+ E perdorni ose jo nje metodologji formale, e rendesishme eshte te identifikoni stakeholders-at e projektit dhe masen e influences se tyre;
+
+ Cdo kontekst dhe projekt-propozim do te kete stakeholdersa te ndryshem dhe shqetesime te ndryshme;
+
+ Ne figuren 1.4 eshte nje harte stakeholdersash per nje projekt qe perfshin berjen e ndryshimeve fizike dhe ndryshimeve ne proces  ne recepsion dhe ambjentin e pritjes ne spital;
+--- Folia 12 ---
+FIGURA 1.4
+Stakeholdersat e projektit
+Klienti
+Ekipi i projektit
+Menaxhere te tjere
+Autoritetet lokale dhe te shendetit
+Perdorues te sherbimit
+Borde profesionale
+Organizatat vullnetare
+Mediat,tv,
+gazeta
+--- Folia 13 ---
+SHEMBULLI 4.2 – STAKEHOLDERSAT NE NJE SISTEM TE RI PER MBAJTJEN E TE DHENAVE
+Nje projekt qe perfshin zhvillimin dhe implementimin e nje sistemi te ri te mbajtjes se te dhenave ne nje sherbim komunitar te perkujdesit shendetesor dhe social;
+
+ Stakeholdersat per kete projekt jane:
+             -Recepsionistet, nenpunesit dhe ata qe mbledhin dhe ruajne te dhenat;
+            - Pacientet  dhe  perdoruesit  e  sherbimit  te  cilet  siguroje  te  dhenat  (dhe  
+             ndonje grup te vecante interesi qe eshte i shqetesuar rreth menyres si 
+            mblidhen te dhenat per nje arsye);
+             -Ata qe vendosin ne dosje dhe ri-nxjerrin te dhenat qe kerkohen;
+             -Ata qe na sigurojne se te dhenat po mbahen ne konfidencialitet;
+             -Ata  qe  perdorin  te  dhenat  per  te  marre  vendime  rreth  ofrimit  te  
+            sherbimeve(profesionistet, infermieret, punonjesit e shendetesise, doktoret dhe
+             te tjere) ;
+             -Ata qe perdorin te dhenat per te marre vendime financiare;
+             -Ata qe perdorin te dhenat per te rishikuar nivelet e ofrimit te sherbimit;
+--- Folia 14 ---
+-Ata qe perdorin te dhenat per te planifikuar perdorimin e mjeteve dhe 
+                materialeve;
+                 -  Ata qe sigurojne se sistemi funksionon ( qofte elektronik ose ne leter);
+                 - Cdokush qe do t’i duhet te transferoje te dhenat nga sistemi i vjeter tek
+                 sistemi i ri ( Ky mund  te  jete  nje  rol  i  rendesishem  nese  ka  nje  numer 
+                te madh  te  dhenash  qe duhen transferuar);
+                 -  Menaxheret  te  cilet  duhet  te  ri-programojne  pergjegjesite  e  stafit  ne
+                menyre qe te mundesojne perparimin e projektit;
+                 - Staf i ri qe eshte rekrutuar ne ekipin e projektit;
+                 - Organizata  te  tjera  dhe  stafi  ne  ato  organizata  qe  kerkojne  rregullisht
+               te  dhena nga organizata ose qe sigurojne te dhena per organizaten.
+SHEMBULLI 4.2 – STAKEHOLDERSAT NE NJE SISTEM TE RI PER MBAJTJEN E TE DHENAVE
+--- Folia 15 ---
+PUNA ME STAKEHOLDERSAT
+
+ Interesi i atyre qe punojne ne projekt, eshte qe stakeholdersat te asistojne gjate gjithe procesit ose mos te shtyjne apo nderpresin programin;
+
+ Idealja dhe me e lehta – marrja e feedback-ut nga stakeholdersat ne fazen e propozimit te projektit;
+
+ Sapo te keni marre feedbeck-un do te jeni te afte te planifikoni perfshirjen e rezultateve qe do te kenaqin me shume shpresat e tyre;
+
+ Nje menyre per te menduar sesi mund te reagojne stakeholdersat, eshte te marrim ne konsiderate nese ka diference ne menyren sesi i shikojne dimensionet kyce te projektit : buxhetin, kohen dhe cilesine;
+--- Folia 16 ---
+AKTIVITETI 4.1
+
+ Koha ne dispozicion 5 min.
+ Kendveshtrimet e stakeholdersave rreth 3 dimensioneve te projektit;
+ Vendosni nje “Grep” per te treguar cdo dimension qe secili nga stakeholdersat e mendon si me te rendesishem nga perspektiva personale;
+--- Folia 17 ---
+AKTIVITETI 4.1
+Sponsori fokusohet me teper te buxheti dhe rezultatet;
+ Nje ekspert funksional ( p.sh nje financier ose trajner) me shume gjasa do te jete i fokusuar ne cilesine e punes;
+ Nje menaxher linje eshte pergjegjes per stafin, qe jane ekipi i projektit. Interesi i ketij menaxheri ndoshta do te jete te sigurohet se programi i projektit nuk do te jete percares i puneve te tjera;
+  Furnizuesit ose kontraktuesit duhet te balancojne keto 3 dimensione;
+ Pacientet dhe perdoruesit e sherbimit shpesh mund te duan rezultatin shpejt, por pas arritjes se tyre fokusi zhvendoset tek cilesia;
+ Stafi i projektit do te kete shqetesime rreth te gjitha dimensioneve ne varesi te kontributit te gjithesecilit; 
+ Menaxheri i projektit duhet te balancoje 3 dimensionet, te rregulloje prioritetet e ndryshme te vendosura nga stakeholdersat ne kohe te ndryshme;
+--- Folia 18 ---
+HARTIMI I PERMBLEDHJES SE PROJEKTIT
+
+ Permbledhja e projektit eshte nje dokument thelbesor i asaj per te cilen eshte rene dakord;
+
+ Eshte dokumenti qe me vone mbeshtet vendimet dhe planifikimin;
+
+ Permbledhja e projektit eshte nje lloj regjistri i marreveshjes rreth fokusit te projektit;
+
+ Eshte pergjegjesia e personit qe menaxhon te draftoje ate pas konsultimit me sponsorat dhe stakeholdersat;
+--- Folia 19 ---
+HARTIMI I PERMBLEDHJES SE PROJEKTIT
+
+ Permbledhja e projektit reflekton 3 dimensionet e projektit ne zonat e tij kyce:
+          - Rezultatet e pritshme nga projekti (Dimensioni cilesor);
+          - Burimet qe do te investohen per te arritur rezultatet 
+             (Dimensioni  i buxhetit);
+           -Koha qe do te duhet per te permbushur projektin (Dimensioni i 
+            kohes);
+
+ Do te kaloje shume kohe dhe do te kete shume diskutime perpara se te draftohet permbledhja e projektit;
+
+ Dokumenti ne vetvete duhet te jete konciz dhe i qarte;
+
+ Ky dokument perfshin udhezime sesi do merren vendimet dhe procedurat per t’u ndjekur;
+--- Folia 20 ---
+STRUKTURA TE PERMBLEDHJES SE PROJEKTEVE
+
+ Qe permbledhja e projektit te jete e qarte dhe koncize, zakonisht ka tituj dhe lista;
+
+SHEMBULL- LISTE KONTROLLI PER DRAFTIMIN E PERMBLEDHJES SE PROJEKTIT
+
+ Titulli i projektit;
+Emri i sponsorit ose nje kontakti tjeter te pergjegjshem per miratimin;
+Vendndodhjet - adresa e sponsorit, vendi i projektit, adresa e kontaktit;
+Emri i personit qe menaxhon projektin dhe detajet e kontaktit;
+Data e miratimit të permbledhjes se projektit;
+Data kur fillon dhe mbaron projekti;
+Backgroundi i projektit me qellimin dhe objektivat e pershkruara;
+--- Folia 21 ---
+LISTE KONTROLLI PER DRAFTIMIN E PERMBLEDHJES SE PROJEKTIT
+
+ Objektivat kryesore me kriteret e suksesit dhe cilesise;
+Detaje sesi arritja e tyre do te sjelle perfitime per organizaten sponsorizuese;
+Fusha e projektit dhe specifikimi i kufinjve;
+Kundershtite; 
+Supozime;
+Kuadri kohor i projektit;
+Vleresimi i kostove;
+Marreveshja mbi burimet;
+Pergatitjen e monitorimit dhe raportimit;
+Marreveshjet vendimmarrese - niveli i autoritetit dhe pergjegjshmerise se menaxherit te projektit dhe cdo lloj marreveshje per ri-negocime;
+Marreveshjet e komunikimit;
+  Firma e sponsorit me daten, titullin dhe autoritetin e tij.
+--- Folia 22 ---
+STRUKTURA E PERMBLEDHJES SE PROJEKTEVE
+
+ Objektivat kryesore vendosen ne permbledhjen e projektit;
+
+ Objektivat e detajuar identifikohen kur eshte zhvilluar plani i projektit;
+
+ Kriteret e suksesit percaktojne se cfare nenkupton suksesi;
+
+ Disa projekte zhvillojne programe rishikimin e progresit, qe zgjat 1 ose 4 muaj;
+
+ Gjerat qe duhet te jene arritur ne secilin prej ketyre fazave te rishikimit jane quajtur “momente kyce/milestones” ; 
+
+ Ne takimet e monitorimit dhe rishikimit duhet te raportohen gjerat qe jane arritur, nese ka patur shkarje dhe si mund te kthehen ne gjendjen normale perpara mbarimit te afatit;
+--- Folia 23 ---
+STRUKTURA E PERMBLEDHJES SE PROJEKTEVE
+
+ Duhet te raportoni nese trajnimi e ka patur ne koston  ne kohe, perpjekje dhe para sipas shkalles se vleresuar ;
+
+ E rendesishme eshte zgjedhja e kanaleve kryesore te komunikimit ne kete faze;
+
+  Progres-raporte te vazhdueshme do t’i dergohen te gjithe atyre qe duhet te qendrojne te informuar;
+
+ Permbledhja e projektit eshte nje mjet vendimtar per menaxhimin efektiv te projektit;
+--- Folia 24 ---
+STRUKTURA E PERMBLEDHJES SE PROJEKTIT
+
+ Permbledhja e projektit synon te vendose nje marreveshje rreth qellimit, kostos dhe kohes se projektit;
+
+ Projektet e suksesshme lidhen me arritjen e objektivave ne kohe dhe brenda buxhetit te miratuar;
+
+ Permbledhja e projektit do te prodhoje nje dizenjo plani per fazen e planifikimit te projektit;

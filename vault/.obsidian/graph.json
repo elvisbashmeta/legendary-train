@@ -1,0 +1,20 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    { "query": "path:00_Dashboard", "color": { "a": 1, "rgb": 14701138 } },
+    { "query": "path:\"01_Kurse/Menaxhimi i Projekteve Sociale\"", "color": { "a": 1, "rgb": 5431378 } },
+    { "query": "path:\"01_Kurse/Analiza\"", "color": { "a": 1, "rgb": 5419478 } },
+    { "query": "path:04_Risorse", "color": { "a": 1, "rgb": 10643456 } }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1
+}

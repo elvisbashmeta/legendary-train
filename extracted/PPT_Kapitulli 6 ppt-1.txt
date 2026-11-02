@@ -1,0 +1,171 @@
+--- Folia 1 ---
+KAPITULLI 6
+SKICIMI I PLANIT
+--- Folia 2 ---
+Planifikimi
+Planifikimi zakonisht fillon gjatë fazës së përcaktimit të kornizës së projektit/ defining phase dhe vazhdon përmes rishikimeve dhe  rimodelimeve deri në momentin që projekti është gati. 
+Plani i projektit mund të kthehet në një mjet pune që ndihmon stafin e projektit të fokusohet në përmbushjen e detyrave dhe aktiviteteve të projektit.
+--- Folia 3 ---
+Planifikimi (2)
+Për shumë projekte, koha e shpenzuar për të përmbledhur projektin, diskutimin e cështjeve me stakeholderat dhe realizimin e vlerësimit të riskut mund të ketë prodhuar qartësinë e nevojshme për të mundësuar që planifikimi të ndodhë.
+ Për projekte të vogla dhe mjaft të drejtpërdreta mund të jetë e mjaftueshme të planifikohen detyrat dhe aktivitetet duke përdorur vetëm disa nga teknikat në dispozicion.
+--- Folia 4 ---
+Pyetjet 	qe bejme gjate planifikimit:
+Cfarë duhet të bëjmë? 
+ Kur duhet ta bëjmë? 
+ Kush do të bëjë secilën detyrë? 
+Në cfarë rendi do të kemi nevojë t’i realizojmë ato? 
+Cfarë burimesh kërkohen? 
+A do të arrihej kjo me punë të tjera që nuk janë bërë? 
+Si do ta kuptojmë nëse po funksionon?
+--- Folia 5 ---
+KU DUHET T’IA NIS?
+Faza e planfikimit të projektit zakonisht ndodh përpara se aktivitetet të fillojnë, por jo gjithmonë. Në disa raste, planifikimi vazhdon edhe gjatë implementimit të projektit sepse ka gjithmonë nevojë të ndryshohen disa aspekte dhe të rishikohen planet
+--- Folia 6 ---
+Shembulli 1.
+Pat, ishte menaxheri i një qendre rezidenciale për të moshuarit dhe drejtonte një staf të vogël në një projekt me qëllim krijimin e një dosjeje shënimesh dhe protokollesh për trajtimin e nevojave.
+Koha ishte e shkurtër dhe Pat nuk arriti ta perfundonte ne kohe. Menaxheri i tij,Nik,beri nje mbledhje  per te pare progresin,nga rezultoi se anetaret kane punuar te ndare duke dhene ide te ndryshme.
+Nik, shpjegoi se procesi i planifikimit të projektit përcakton mënyrën sesi është kryer puna. Pat kërkoi të bëhej një mbledhje me grupin dhe punoi gjatë të gjithë procesit me të gjitha ata, kështu cdo person kuptoi se cfarë kërkohej prej tij. 	
+Zhvillimi i planit së bashku i ndihmoi ata të sillnin idetë e tyre bashkë, të binin dakord se kush do të kryente secilën detyrë dhe të fokusoheshin sesi të arrinin rezultatet që u ishin kërkuar. Projekti u kthye sërisht nën kontroll dhe shumë shpejt u përmbush me sukses
+--- Folia 7 ---
+…
+Në shembullin nr 1 Pat u ndesh me një numër barrierash në procesin e planifikimit të projektit. Pat ishte përpjekur të krijonte një plan, por instruksionet në manualin e shkruar i rezultonin të vështira për t’u ndjekur. 
+Nëse anetaret do të ishin përfshirë në diskutimin e projektit dhe sesi mund ta përfundonin atë, ata do të kishin kuptuar se duhet të vendosnin se kush do ta realizojë cdo detyre dhe se në cfarë rendi duhet të realizohen këto detyra. 
+Përfshirja në planifikim zakonisht rrit edhe motivimin për ta përfunduar planin.
+--- Folia 8 ---
+ZHVILLIMI I NJË PLANI PROJEKTI
+Një plan projekti zakonisht përfshin elementët e mëposhtëm: 
+ Një plan të detyrave dhe aktiviteteve të ndara, të quajtur “struktura e ndarjes së detyrave”; 
+Strukturën e grupit dhe përgjegjësitë për personat kyc; 
+Një vlerësim të përpjekjeve dhe kohëzgjatjes së cdo detyre;
+Një plan oraresh (Program) për të treguar renditjen dhe kohën e cdo aktiviteti; 
+Detaje për burimet qe do të alokohen për cdo detyrë; 
+Detaje të buxhetit që do të alokohet për cdo kosto të identifikuar; 
+ Planin e kontigjencës për t’u përballur me risqet e identifikuara.
+--- Folia 9 ---
+Teknika te planifikimit
+Nga poshtë - lart (ose bottom up) - identifikoni të gjitha detyrat e vogla që duhet të realizohen dhe pastaj grupojini në një bllok pune më të madh dhe të menaxhueshëm; 
+Nga lart – poshtë (ose top down) - filloni duke hartëzuar blloqet kryesore të punës që duhet të realizohen dhe më pas nën-dajini ato në detyrat përbërëse; 
+ Puno së prapthi, që nga data e përfundimit nëse është një pikë e dhënë në kohë. Psh. dita e Vitit të Ri, pastaj mbush të gjitha fazat e ndërmjetme që të mundësojnë të shkosh deri aty.
+--- Folia 10 ---
+PËRDORIMI I DIAGRAMËS LOGJIKE
+Nga grumbulli i aktiviteve dhe detyrave mund të filloni të identifikoni fazat kyce të projektit duke ndërtuar një diagramë logjike. 
+Fillimisht, duhet të gruponi detyrat dhe aktivitetet në kllastera që janë të lidhura me një moment kyc në projekt/milestone.
+Pasi i keni vendosur aktivitetet dhe detyrat në grupe, etiketoi ato si një fazë kyce e mundshme. 
+Hapi tjetër është të përcaktojmë renditjen sipas së cilës fazat kyce duhet të realizohen për të përmbushur objektivat e projektit.
+--- Folia 11 ---
+Kur vizatoni diagramën logjike konvencionet e mëposhtme mund të jenë ndihmëse:
+Koha rrjedh nga “NISJA” në të majtë deri tek “FUNDI” në të djathtë, por nuk ka një kuadër kohor të kufizuar; 
+Cdo fazë kyce duhet të përshkruhet vecmas. Nëse shikoni se e keni lënë jashtë një prej tyre dhe nëse ju planifikoni diagramën me letra përpara se të vizatoni diagramën përfundimtare atëherë mund ta fusni fazën që keni lënë jashtë dhe të rivendosni të tjerat; 
+Kohëzgjatja e fazave kyce nuk është ende relevante sepse ju nuk keni pse të punoni brenda një harku kohor fiks në këtë stad të planifikimit;
+--- Folia 12 ---
+(2)
+Letra me ngjyra të ndryshme mund të përdoren për lloje të ndryshme aktivitetesh; 
+Merrni kohë të debatoni dhe bini dakord për vendin e secilës letër në diagramë; 
+Sapo të jeni shumë të sigurt për planin e vendosjes, tregoni lidhjet e varësisë me anë të shigjetave; 
+Kur diagrama të jetë e përfunduar, përpiquni të punoni së prapthi për të kontrolluar nëse do të funksionojë. Sigurohuni që projekti arrin të gjitha objektivat;
+--- Folia 13 ---
+(3)
+Mos i përcaktoni ende detyra njerëzve; 
+Mbaje një kopje (ose regjistrim) sapo diagrama të jetë aprovuar, duke kopjuar pozicionet e fazave kyce dhe shigjetave të varësisë.
+--- Folia 14 ---
+AKTIVITETI 1
+Imagjinoni sikur menaxherët e organizatës ku punoni po mendojnë të zhvillojnë një udhëzues për t’ia dhënë stafit të sapo emëruar, si pjesë e procesit të prezantimit. Ju prisni se do ju kërkohet juve ta menaxhoni këtë projekt dhe kërkoni të jenë të përgatitur mirë për takimin në të cilin do të diskutohet ky projekt potencial. Ndërtoni një listë të detyrave të përfshira në projekt dhe organizojini ato në faza kyce, pra si diagramë logjike.
+--- Folia 15 ---
+Reagimi qe pritet nga ju :
+Ju duhet të keni 
+Ju mundet të keni vendosur të keni një lloj komiteti drejtues
+Ju mund të keni pasur nevojë për një plan për mbledhjen e të dhënave 	
+Ju do të keni nevojë edhe të mendoni sesi do të shpërndahet udhëzuesi në secilën zonë të punës në organizatë
+--- Folia 16 ---
+Balanca ne planifikim midis :
+Nevojës së pasjes së një plani për t’u siguruar se rezultatet e projektit do të arrihen brenda kohës, buxhetit dhe kërkesave cilësore.
+Nevojës për t’iu përgjigjur ndryshimeve në kontekstin rrethues të projektit dhe në kuptimin e të gjithë njerëzve të përfshirë në projekt.
+--- Folia 17 ---
+IDENTIFIKIMI I “PRODUKTEVE TË DËRGUESHME/DELIVERABLES”
+Termi “deliverable” i referohet të gjithë produkteve që do të prodhohen dhe dërgohen gjatë të gjithë kohëzgjatjes së projektit - pra cdo gjë e cila do të shpërndahet.
+Përmbledhja e projektit do të identifikojë qëllimet e projektit dhe mund të shprehë edhe disa nga këto si objektiva kyce. Do të ketë edhe objektiva të tjera që do të jenë plotësuese (suplementare) të objektivave kyce. Disa objektiva do jenë eksplicite përsa i përket asaj që do të prodhohet. 
+Në një fazë fillestare të projektit do t’ju duhet të identifikoni të gjitha objektivat e projektit dhe të gjitha produktet e dërgueshme/deliverables që nënkuptohen ose kërkohen në mënyrë eksplicite nga cdo objektiv.
+--- Folia 18 ---
+(2)
+Cdo objektiv do të identifikojë një rezultat të qartë. Rezultat është produkti i dërgueshëm/deliverable.
+Në seclin rast, produkti i dërgueshëm/deliverable duhet të identifikohet sepse kështu do të jetë e lehtë të demostrojmë se kjo është arritur.
+--- Folia 19 ---
+(3)
+Produkti/deliverable mund të ishte një evidencë se 80 menaxherë kyc janë trajnuar për të menaxhuar ndryshimin. Kjo evidencë mund të ishte në formën e një regjistrimi që tregon se trajnimi ka ndodhur. 
+Do të ishte shumë afër qëllimit të projektit nëse produkti/deliverable për këtë objektiv do të ishte përshtatur nën termat e aftësisë së secilit prej 80 menaxherëve të trajnuar për të prodhuar evidenca që e kanë menaxhuar me sukses ndryshimin.
+--- Folia 20 ---
+Produkti/Deliverable
+Ai mbështet qëllimin personal të menaxherit të projektit për të rritur profilin e departamentit të burimeve njerëzore brenda organizatës.
+Përdor  evidenca për të prodhuar një raport.
+Objektiva te vecanta
+--- Folia 21 ---
+Output/Outcome
+Outputet mund të përkufizohen atëherë kur ka një produkt të dukshëm të identifikuar, por outcomet janë më holistike dhe mund të përfshijnë një gjendje të ndryshuar që mbase nuk është evidente për shumë kohë.
+Është e rëndësishme në të tillë kontekst të identifikojmë qëllimet dhe t’i përkufizojmë në një mënyrë që mundëson një vlerësim të masës në të cilën ato janë arritur.
+--- Folia 22 ---
+Shembulli nr 2.
+Udhëzuesi i shërbimeve të agjensisë së trajnimit ka një seri objektivash që i bëjnë ata të aftë të identifikojnë fazat kyce të dhëna në shembullin 2.
+Lista fillestare e produkteve e ndërtuar nga menaxheri i projektit përfshin shënimet sesi secili prej produkteve/deliverables mund të demostrohet si i arritur me sukses.
+--- Folia 23 ---
+1. Sigurimi i fondeve
+Fonde të disponueshme për t’u përdorur kur është e nevojshme (demostruar nga pranimi i autoritetit për të nënshkruar ceqe); 
+Deklarata e buxhetit e përgatitur me tituj që identifikojnë fushat kryesore të shpenzimeve; 
+ Rënia dakord me sponsorin për mënyrën sesi do të regjistrohen (mbahen) shpenzimet dhe mënyrën sesi do të menaxhohen porositë dhe faturat;
+--- Folia 24 ---
+2. Negociatat me agjensite e tjera
+Shënimet dhe minutat e takimeve të bëra me bashkëpunëtorët potencialë duke identifikuar komentet rreth projektit dhe cështjeve të ngritura; 
+Marrëveshjet e regjistruara, marrëveshjet formale rreth buxhetimit ose ndarjes së informacionit dhe rekordeve; 
+Propozimet për stafin që do të shërbejë në grupin këshillues (listë e emrave me detajet e organizatës dhe kontaktet);
+--- Folia 25 ---
+3. Formimi i grupit keshillues
+Lista e anëtarësisë që tregon përfaqësimin e organizatës; 
+Oraret e takimeve të planifikuara; 
+Termat e referencës të shkruara për grupin duke u fokusuar në arritjen e rezultateve të projektit dhe rregullimin e shqetësimeve të ngritura gjatë negociatave; 
+Plani që tregon sesi grupi këshillues do të informojë dhe këshillojë për progresin e projektit;
+--- Folia 26 ---
+4. Percaktimi i planit
+Plane të shkruara që tregojnë se cfarë të dhënash do të mblidhen nga kush, në cfarë kohë dhe në c’formë. Vendim i domosdoshëm është ai sesi do t’i sistemojmë të dhënat që përpara se ato të mblidhen duke qënë se kjo influencon, nëse i mbledhim në formë elektronike ose në letër.
+--- Folia 27 ---
+5.Mbledhja e te dhenave
+Mbledhja e të dhënave në përputhje me planin e miratuar; 
+Mbledhja e të dhënave në mënyrë të tillë që lejon që të shkruhen udhëzimet;
+--- Folia 28 ---
+6. Shkruaj udhezimin
+Staf për të shkruar kontratat ose më kohë të lirë për ta bërë këtë; 
+ Aprovim i shkruar rreth madhësisë dhe përmbajtjes paraprake të dokumentit; 
+Pajtueshmëri rreth mënyrës sesi do të përdoren logot; 
+Informacion i plotë në dispozicion nga mbledhja e të dhënave dhe sistemimi i tyre; 
+Drafin e shkruar dhe të shpërndarë të udhëzuesit tek agjensite ose grupi i këshillimit, për të marrë komente; 
+Përfundimi i shkrimit të udhëzuesit;
+--- Folia 29 ---
+7.Identifikoni shtypshkronjen
+Marrëveshje rreth procesit të përzgjedhjes së shtypshkronjës; 
+Dokument ftese ku ftohen shtypshkronjat në tender ose vlerësim; 
+Marrëveshje rreth kritereve të përzgjedhjes së shtypshkronjës së duhur; 
+Të paktën 3 vlerësime nga ato; 
+Përfundimi i procesit të përzgjedhjes dhe identifikimit të shtypshkronjës;
+--- Folia 30 ---
+8. Marreveshja e kontrates se shtypjes
+Kontrata e shkruar; 
+ Kontrata me shtypshkronjën dhe nënshkrimi;
+--- Folia 31 ---
+9. Printo udhezuesin
+Numri i miratuar i udhëzuesve, në cilësinë e miratuar, në datën e miratuar dhe shpërndarë sipas marrëveshjes; 
+Plani i shkruar i shpërndarjes, i miratuar nga të gjitha agjensitë e tjera;
+--- Folia 32 ---
+10.Organizimi /Shperndarja
+Plani i shpërndarjes identifikon kush duhet të bëjë cfarë, për të siguruar shpërndarjen sipas marrëveshjes; 	
+Udhëzuesit janë marrë nga të gjitha vendet ku ishte rënë dakord;
+--- Folia 33 ---
+Perfundimet e nxjerra :
+Menaxheri i projektit kuptoi se procesi i të menduarit përmes të gjitha produkteve/deliverables ngriti më shumë cështje sec ishin diskutuar kur ishte miratuar përmbledhja e projektit .
+Të punuarit nëpër detajet e projektit nxorri në pah aspekte të projektit që ishte e nevojshme të merreshin në konsideratë përpara se të ecnim më tej.
+--- Folia 34 ---
+Produktet/Deliverables
+Ne fund te projektit duhet pasur parasysh:
+Duhet t’u dërgohen një personi të autorizuar 
+Duhen implementuar
+Identifikimi i ceshtjeve te tjera si pasoje e tyre
+Perpilimi i nje liste te tyre
+Perceptime të ndryshme për nivelin e cilësisë

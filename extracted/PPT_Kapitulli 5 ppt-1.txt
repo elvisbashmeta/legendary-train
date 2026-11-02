@@ -1,0 +1,245 @@
+--- Folia 1 ---
+Kapitulli 5: Menaxhimi i riskut
+--- Folia 2 ---
+MENAXHIMI I RISKUT
+
+Ngjarjet rrallëherë ndodhin ashtu sikurse ne i presim, kështu që gjithmonë do të ketë risqe të lidhura me projektin.
+Projekti realizohet në një mjedis të gjerë, normalisht ka gjithmonë risqe të lidhura me punën e përditshme në atë kontekst, duke përfshirë risqe shëndetësore dhe sigurie. 
+Ka edhe risqe që ekzistojnë vetëm sepse projekti ekziston. Për shembull: risku që projekti të mos arrijë objektivat e tij.
+--- Folia 3 ---
+RISKU DHE PLANI I KONTIGJENCËS…
+
+Risku është shansi që diçka të ndodhë dhe të dëmtojë projektin.
+
+Disa risqe mund të parashikohen dhe disa aspekte të menaxhimit të riskut janë diçka shumë e zakonshme.
+--- Folia 4 ---
+RISKU DHE PLANI I KONTIGJENCËS…
+Shembull: Nëse ju nuk do të jeni të aftë të filloni punën derisa paisjet të dërgohen, mund të mendoni të telefononi furnizuesin tuaj në mënyrë që të siguroheni se dërgesa është planifikuar të bëhet në kohë. Gjithashtu mund të keni menduar paraprakisht dhe të keni zgjedhur një furnizues të cilin e dini se është i besueshëm. 
+Megjithatë, disa risqe nuk janë të lehta për t’u parashikuar.
+--- Folia 5 ---
+RISKU DHE PLANI I KONTIGJENCËS…
+
+Një qasje e menaxhimit të riskut kërkon një lloj tjetër të menduari nga përqasjet e çdo dite.
+Menaxhimi i riskut është një pjesë fondamentale e menaxhimit të projektit sepse të mundëson të planifikosh në mënyrë reale për të shmangur problemet, duke ndërtuar një mënyrë sesi t’i përgjigjeni risqeve më të zakonshme dhe të dëmshme nëse ato nuk janë të parandalueshme.
+--- Folia 6 ---
+RISKU DHE PLANI I KONTIGJENCËS…
+
+Konsiderimi i riskut duhet bërë para fazës së planifikimit sepse jep informacion se si të planifikojmë në termat e programimit të kohës, përpjekjeve dhe buxhetit.
+--- Folia 7 ---
+RISKU DHE PLANI I KONTIGJENCËS…
+
+Risqet lindin nga brenda projektit dhe nga mjedisi i projektit.
+
+Për t’i menaxhuar risqet, duhet si fillim t’i identifikojmë dhe të vendosim se sa mundësi ka që të ndodhin.
+--- Folia 8 ---
+RISKU DHE PLANI I KONTIGJENCËS…
+
+Mënyra për të reduktuar pasiguritë:
+Mund të jemi të sigurt duke marrë në konsideratë probabilitetin që ka ngjarja për të ndodhur ose jo, duke qënë se ai redukton disa nga paqartësitë e projektit. 
+Duke konsideruar sasinë e informacionit që është e nevojshme në mënyrë që të vazhdojmë përpara me besim.
+--- Folia 9 ---
+RISKU DHE PLANI I KONTIGJENCËS…
+
+   Shembull: Cilësia është shpesh e vështirë për t’u përshkruar në terma ekzakte dhe mund të ketë risk që cilësia e rezultateve të projektit të mos përmbushë pritshmëritë e stakeholderave kryesorë. Risku mund të reduktohet duke komunikuar me këta stakeholdera përpara dhe gjatë kohës kur projekti është në progres, për t’u siguruar se është zhvilluar një kuptueshmëri e mjaftueshme dhe se është koha për të bërë ndryshime, nëse është e nevojshme.
+--- Folia 10 ---
+RISKU DHE PLANI I KONTIGJENCËS…
+
+Marrja në konsideratë e riskut në një projekt është zakonisht e limituar nga mundësia e risqeve të ndryshme që ndikojnë në projekt dhe qëllimin e tij, dhe jo nga risqe në cdo formë që mund të ndikojnë shërbimin ose organizatën në të cilën projekti është i lokalizuar. 
+Risqet e jashtme të cilat duhet të merren në konsideratë janë ato që mund të kenë impakt direkt në projekt.
+--- Folia 11 ---
+RISKU DHE PLANI I KONTIGJENCËS…
+Shembull: Risqet e brendshme dhe të jashtme për një projekt.
+Një menaxhere spitali ishte i shqetësuar rreth një numri ankesash që kishte marrë rreth cilësisë së pastrimit. Ajo ngriti një projekt për të zhvilluar një sistem të monitorimit të cilësisë dhe identifikoi disa standarte dhe indikatorë performance duke intervistuar stafin në zona të ndryshme të spitalit. Kontratat e pastrimit duhet të ishin ri-tenderuar dhe koha ishte shumë e rëndësishme sepse kontratuesit e rinj do të donin të dinin indikatorët e performancës kur të ofronin shërbimin. Ajo ishte gjthashtu shumë e shqetësuar sesi do të monitoroheshin këto standarte të reja.
+--- Folia 12 ---
+RISKU DHE PLANI I KONTIGJENCËS…
+Shembull: Risqet e brendshme dhe të jashtme për një projekt.
+Risqet e brendshme të projektit:
+Risku që specifikimet e pastrimit të mos ishin zhvilluar në mënyrë që të reflektonin të gjitha kërkesat e nevojshme sepse ato nuk u identifikuan plotësisht.
+Risqe të lidhura me ri-shkrimin e kontratës dhe detyrimet.
+Kontraktorët janë të jashtëm për spitalin dhe ekzistonte shqetësimi rreth mënyrës sesi puna e tyre do të realizohej në spital, këto janë në mënyrë përfundimtare pjesë e projektit, kështu që janë risqe të brendshme.
+--- Folia 13 ---
+RISKU DHE PLANI I KONTIGJENCËS…
+Shembull: Risqet e brendshme dhe të jashtme për një projekt.
+Zgjidhja për risqet e jashtme:
+Ajo vendosi të adresonte risqet e lidhura me shkrimin e kontratës duke punuar së bashku me ata që kanë fituar kontratën, duke zhvilluar standartet e performancës gjatë muajve të parë të kontratës së re.
+Caktimi i një anëtar të ri të stafit për të zhvilluar dhe monitoruar standartet, mbase si pjesë e një roli më të gjerë.
+--- Folia 14 ---
+RISKU DHE PLANI I KONTIGJENCËS…
+Shembull: Risqet e brendshme dhe të jashtme për një projekt.
+Risqet e jashtme:
+Ekzistonte risku që spitali të mos donte të investonte në një anëtar të ri të stafit ose mos donte të siguronte kohën që anëtarët të punonin në projekt.
+Standartet për pastrimin mund të jenë vendosur kombëtarisht dhe spitali duhet të bjerë konform, megjithëse ky projekt do ta ketë vendosur atë në një pozicion të mirë për t’u përputhur me kërkesat të reja.
+--- Folia 15 ---
+PËRGATITJA PËR MENAXHIMIN E RISKUT
+
+4 fazat e menaxhimit të riskut:
+Identifikimi i riskut
+Vlerësimi i ndikimit
+Zhvillimin e planeve për t’i patur rezervë
+Të sigurohemi se risqet po mbahen nën vëzhgim dhe që janë zhvilluar planet e duhura për të përballuar ndonjë ndryshim në tip ose probabilitetin e një impakti negativ
+--- Folia 16 ---
+KATEGORITË E RISQEVE
+
+Burimet e risqeve:
+Fizike - humbjen ose dëmtimin e njerëzve, paisjeve, imformacionit të ruajtuar ose ndërtesave si rrjedhojë e një aksidenti, zjarri ose katastrofe natyrore.
+Teknike - sistemet ose paisjet nuk punojnë fare, nuk punojnë mirë për të realiuzuar punën e synuar ose që ngecin shpesh.
+Pune - njerëzit kryesorë e kanë të pamundur të kontribuojnë në projekt për shkak të sëmundjes, ndryshimit të karrierës ose shumë më tepër punë tjetër.
+--- Folia 17 ---
+KATEGORITË E RISQEVE…
+
+4.  Politike/sociale - për shembull, mbështetja për projektin mund të jetë mbyllur si rezultat i një ndryshimi të politikës nga qeveria ose menaxhimi i lartë, për shkak të protestave të komunitetit, medias, pacientëve, përdoruesve ose ofruesve të shërbimit.
+5. Detyrimet - aksionet ligjore ose kërcënimet prej tyre për shkak se aspekte të caktuara të projektit janë zbuluar si ilegale ose për shkak të frikës së pretendimeve për kompensim nëse dicka shkon keq.
+--- Folia 18 ---
+KATEGORITË E RISQEVE…
+
+
+Një mënyrë për t’i identifikuar më mirë risqet është duke analizuar çdo fazë kyçe të projektit.
+Risqet do të jenë më të detajuara dhe impakti potencial i secilit risk mund të ndryshojë.
+--- Folia 19 ---
+KATEGORITË E RISQEVE…
+
+Identifikimi i zonave të risqeve bëhet me qëllim për të reduktuar impaktin negativ në projekt.
+PARASHIKIMI I RISKUT
+PËRGATITJA E NJË PLANI
+(PLANI I KONTIGJENCËS)
+--- Folia 20 ---
+KATEGORITË E RISQEVE…
+
+Shembull: Imagjinoni sikur po menaxhoni një projekt që mbështetet në shërbimet e ofruara nga kontraktori që do të punojë me ju për një periudhë 6 mujore. Listoni risqet e mundshme të lidhura me kontraktorin.
+--- Folia 21 ---
+KATEGORITË E RISQEVE…
+
+Risqet e mundshme:
+Sëmundshmëria e kontraktorit ose mungesat
+Mungesa e njohurive dhe aftësive
+Kostot (monetare/ kohore)
+--- Folia 22 ---
+VLERËSIMI I RISKUT DHE ANALIZA E IMPAKTIT…
+
+Vlerësimi i riskut shkon përtej identifikimit të risqeve potenciale. Për të vlerësuar një risk ju duhet të parashikoni sa mundësi ka që risku të kthehet në realitet.
+
+ Analiza e impaktit, më pas ndërtohet mbi këtë vlerësim duke gjykuar se sa shumë dëmtim mund t’i shkaktohet projektit nëse risku materializohet.  
+
+Pyetjet kyce janë: 
+Çfarë është një risk? - Si do ta kuptoj unë se po kthehet në një realitet?
+Cili është probabiliteti që të ndodhë? I ulët, i mesëm apo i lartë? 
+Sa serioz është kërcënimi që paraqitet për projektin? I ulët, i mesëm apo i lartë? 
+Cilat janë shenjat ose indikatorët për të cilat duhet të kërkojmë?
+--- Folia 23 ---
+VLERËSIMI I RISKUT DHE ANALIZA E IMPAKTIT…
+
+Tabela e vlerësimit
+                                                                                                                             të risqeve
+
+
+
+
+
+
+
+
+Lartë-djathtas janë ato më të rrezikshme për projektin sepse ka më shumë mundësi që të ndodhin dhe do të kenë një impakt dëmtues nëse ndodhin. 
+Risqet në krahun e djathtë kanë aftësinë të shkaktojnë një dëmtim të konsiderueshëm, edhe pse ka më pak gjasa të ndodhin. 
+çdo risk i vendosur në kategorinë e impaktit të ulët dhe probabilitetit të ulët mund të injorohet derisa ngjarje të caktuara tju cojnë në rivlerësimin e atij risku dhe vendosjen e tij në një kategori me probabilitet të lartë.
+--- Folia 24 ---
+STRATEGJI PËR PËRBALLIMIN E RISKUT 
+Shmangien e riskut - fshini një element të projektit që ishte kandidat potencial për t’u prekur nga një risk që mund të ndodhte dhe që do të kishte një impakt dëmtues tepër serioz; 
+
+Reduktimi i riskut - planifikimi i rishikimeve të vazhdueshme gjatë procesit dhe përfshirjen e stakeholderave në mënyrë që ata të influencojnë progresin drejt arritjes së rezultateve të pranueshme
+
+Mbrojtja nga risku - sigurimi kundër disa risqeve të caktuara; 
+
+Menaxhim i riskut - përgatitja e një plani kontigjence dhe rishikimi i planit të projektit kur është e nevojshme; 
+
+Transferimi i riskut - t’ia kaloni përgjegjësinë për një detyrë me risk në organizatë, një organizate tjetër që ka më tepër eksperiencë në fushën e aktivitetit.
+--- Folia 25 ---
+SHEMBULL:  Strategjitë për përballimin e riskut
+ 
+Një menaxher personeli hartoi një projekt pilot për të testuar praktikat e një ndryshimi të parashikuar në ligj që përfshinte punësimin e personave me aftësi të kufizuara. Kishte shumë pyetje rreth mënyrës sesi menaxheri po shpenzonte paratë dhe kohën duke drejtuar projektin pilot sepse kishte mundësi që legjislacioni të mos shkonte në parlament pa u bërë ndryshimet subastanciale të lidhura me kërkesat e vendosura nga punëdhënësit.
+Risku: projekti të shkonte kot nëse ndryshimi i parashikuar në ligj të mos ndodhte ose të shtyhej. Ekzistonte edhe risku që legjislacioni do të ndryshonte dhe projekti nuk do të fokusohej në cështjet e duhura.
+--- Folia 26 ---
+SHEMBULL:  Strategjitë për përballimin e riskut…
+
+Reduktimi i riskut:
+Rishikimi i praktikave aktuale të punësimit për personat me aftësi të kufizuar;
+
+Bërja e rekomandimeve sesi mund të bëheshin përmirësime nga të cilat do të përfitonte organizata;
+
+Sigurimi i informacionit që mundëson ndërmarrjen e veprimeve menjeherë sapo të ishin konfirmuar ndryshimet në legjislacion;
+--- Folia 27 ---
+PLANI I KONTIGJENCËS
+Një plan kontigjence përdoret kur një risk bëhet real, për të minimizuar dëmtimin që mund të shkaktohet nga ndikimi i tij. 
+Bëhet vetëm kur risqet janë identifikuar dhe kur është vlerësuar ndikimi i tyre potencial.
+Mund të përfshijnë një numër të madh opsionesh në përgjigje të krizave potenciale.
+Një avantazh i krijimit të planeve të kontigjencës është se diskutimi i risqeve së bashku me stakeholder-at që në fazën e hershme dhe diskutimi i përgjigjeve potenciale pa presionin e faktit që jemi në një situatë krize.
+--- Folia 28 ---
+PLANI I KONTIGJENCËS…
+
+
+Synimi është të kthet projekti sërish në vijë në termat e mbajtjes së cilësisë dhe qëndrimit brenda buxhetit e kuadrit kohor.
+--- Folia 29 ---
+KORNIZË PËR MENAXHIMIN E RISKUT
+
+“Risk log” ose “risk register” përdoret normalisht për të hartuar plane për menaxhimin e riskut.
+
+
+
+
+
+Formati i një regjistri risqesh
+--- Folia 30 ---
+INFLUENCIMI I STAKEHODLER-AVE 
+
+Disa projekte kanë risqe potenciale nga stakeholderat sepse ata nuk mbështesin plotësisht synimet dhe proceset e projektit.
+
+Analiza e stakehodler-eve          Identifikimi i stakeholder-it me më shumë influencë.
+--- Folia 31 ---
+INFLUENCIMI I STAKEHODLER-AVE …
+
+Fazat e analizes se stakehodlerave:
+
+Faza e pare-> Të përcaktoni stakeholderat për të treguar se ku e vlerësoni ju pozicionin e tyre në bazë të  këndvështrimeve që ata  kanë shprehur.
+
+Pozicionet përcaktohen në termat e atyre që “LEJOJNË”, “NDIHMOJNË” apo “NDALOJNË” proceset e projektit.
+--- Folia 32 ---
+INFLUENCIMI I STAKEHODLER-AVE…
+
+Tabela 5.3 - Analiza e stakeholder-ave, Faza 1
+--- Folia 33 ---
+INFLUENCIMI I STAKEHODLER-AVE…
+
+ Faza e dytë -të vendosni se cilin nga stakeholder-at mund të influenconi për të qënë më mbështetës.
+
+Lëvizim disa stakeholder nga pozicioni “NDALUES” drejt atij “LEJUES”.
+--- Folia 34 ---
+INFLUENCIMI I STAKEHODLER-AVE…
+
+Tabela - Analiza e stakeholder-ave, Faza 2
+--- Folia 35 ---
+INFLUENCIMI I STAKEHODLER-AVE…
+Shembull: Menaxhimi i riskut
+
+Një organizatë vullnetare që siguron akomodim dhe shërbime strehimi për personat e pastrehë propozoi të zgjeronte aktivitetet e tij në një qytet tjetër ku kishte nevojë. Mbështetje financiare lokale është ofruar por, asnjë marrëveshje financimi nuk është shkruar ende. Për më tepër, përpjekjet e mëparshme të organizatave të tjera për të bërë të njëjtën gjë u përballën me rezistencë nga një shoqatë rezidente. Stafi në organizatë ishin pro mbështetjes së propozimit, por menaxheri që do të kishte përgjegjësinë për projektin ishte me leje të gjatë për shkak të sëmundjes.
+--- Folia 36 ---
+INFLUENCIMI I STAKEHODLER-AVE…
+Shembull: Menaxhimi i riskut
+Risqet kryesore: stafi dhe faktorët politikë/ socialë
+Adresimi i çështjes u bë përmes:
+Takimeve me liderat e komunitetit për t’i shpjeguar rëndësinë dhe vlerën e këtij shërbimi të ri (influencim stakeholderash) 
+
+Duke ofruar informacion dhe duke mbledhur pikëpamje në gazetën lokale (influencim stakeholderash) 
+
+Duke u përballur me problemet e sëmundshmërisë së stafit (reduktim i riskut)
+--- Folia 37 ---
+INFLUENCIMI I STAKEHODLER-AVE…
+Shembull: Menaxhimi i riskut
+
+Duke punuar me stafin e autoriteteve lokale për të konfirmuar marrëveshjet e financimit  (influencim stakeholderash + reduktim risku) 
+
+Duke u siguruar se drafti i kontratës ka një klauzolë që lejon organizatën të tërhiqet nëse nuk është siguruar një financim i përshtatshëm (shmangie risku)
+--- Folia 38 ---
+Menaxhimi i risqeve kërkon parashikimin e tyre dhe imagjinimin e pasojave. 
+Sjell përfitime:
+Të qënurit i përgatitur mirë për disa risqe të parashikuara.
+Të përdorim regjistrin e riskut dhe planet e kontigjencës duke kursyer kohë dhe burime kur gjërat shkojnë keq.
+Për të përballuar mirë ankthin në kohën kur gjërat shkojnë keq në projekt.

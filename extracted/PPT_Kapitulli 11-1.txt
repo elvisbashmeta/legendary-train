@@ -1,0 +1,245 @@
+--- Folia 1 ---
+Kapitulli 11
+Komunikimi
+--- Folia 2 ---
+Komunikimi ne projekt
+Komunikimet efektive janë thelbësore për mbajtjen e progresit dhe kuptimin e  cështjeve të cilat lindin ndërkohë që zhvillohet projekti. 
+
+Komunikimi është kaq qëndror në menaxhimin e projekteve saqë një komunikim i dobët mund të konsiderohet një risk që do të këncënojë gjasat e përfundimit të projektit në mënyrë të suksesshme.
+--- Folia 3 ---
+Një nga shqetësimet kryesore është nevoja për të menaxhuar informacionin që duhet  të : 
+prodhohet, 
+ mblidhet  
+Shpërndahet  ( si pjesë e projektit.) 
+
+Rrjedhja e informacionit në një projekt duhet të planifikohet  ne ate lloj menyrepër të siguruar se informacioni i duhur arrin tek njerëzit që kanë nevojë për të.
+--- Folia 4 ---
+Komunikimi është një proces i dy-anshëm që përfshin: 
+Derguesin e informacionit 
+Marresin e informacionit  
+
+    Shembull :Nëse ne nuk komunikojmë me njëri-tjetrin, mund ta gjejmë veten duke  punuar në qëllime të kryqëzuara.
+--- Folia 5 ---
+Llojet e komunikimit
+Komunikimi mund të jetë formal dhe informal, në varësi të madhësisë së projektit,njerëzve të përfshirë dhe mënyrës së zakonshme të punës dhe komunikimi duhet të realizohet me
+patjetër nëse duam që projekti tja dalë me sukses. 
+
+Kanalet e komunikimit në projekt duhet të përfshijnë të gjithë përsonat që janë pjesë e projektit. Pra anëtarët e ekipit të projektit do të duan të komunikojnë me njëri-tjetrin, duke qënë se këto ekipe përmbushin detyra të ndryshme. Ka gjithashtu edhe njerëz jashtë ekipit që duhet të përfshihen, duke përfshirë këtu grupe të gjera stakeholderash dhe sponsorat.
+.
+--- Folia 6 ---
+Komunikimi \ dialogu
+Komunikimi nënkupton shtrirjen e disa llojeve të dialogëve, ku mesazhe merren,kuptohen dhe i kthehet një përgjigje që mund të shkaktojë një sërë përgjigjesh të mëtejshme.
+Shpesh, dialogu bëhet për të testuar ose zhvilluar kuptueshmërinë.  
+
+  Shembull :Nëse ju dërgoni një mesazhdhe jeni i sigurt se ka arritur në destinacionin e synuar, s’mund të jeni ende i sigurt se mesazhit tuaj i është kushtuar vëmendje ose se ai është kuptuar ose jo.
+--- Folia 7 ---
+Komunikimi mund të përmirësohet nga:
+Të kushtuarit vëmendje të nevojave të të tjerëve;
+Duke dëgjuar në mënyrë aktive, duke u kujdesur dhe konstatuar sinjalet;
+Duke marrë kohë për të komunikuar në mënyrën e duhur;
+Të marrësh kohë për të kontrolluar se mesazhi është kuptuar;
+T’i kushtosh vëmendje feedbackut;
+Të japësh feedback;
+Të zgjedhësh kohën dhe vendin kur pret të kesh një vështirësi ose bisedë konfidenciale.
+--- Folia 8 ---
+PSE ËSHTË I NEVOJSHËM KOMUNIKIMI I MIRË?
+Komunikimi është i nevojshëm për të siguruar të kuptuarit reciprok. 
+
+Qëllimi i komunikimit në një projekt është t’i shpjegojë të tjerëve se cfarë është arritur,se cfarë ka mbetur ende për t’u bërë dhe të dëgjojë dhe t’i përgjigjet nevojave dhe pikëpamjeve të të tjerëve në projekt. 
+
+Menaxheri i projektit është pikerisht personi në qendër të rrjetës së
+     aktiviteteve, i cili është në gjendje të mbajë një /pasqyrë/
+     panoramë/vision/overvieë/ dhe të sigurojë se komunikimi rrjedh      lehtësisht përmes të gjitha kanaleve të nevojshme
+--- Folia 9 ---
+SI MUND TË SIGUROHET KOMUNIKIMI?
+Menaxherët e projekteve përdorin një gamë të gjerë kanalesh komunikimi, përfshirë
+këtu :
+takimet ballë për ballë,
+komunikim me telefon, 
+shënime të shkruara ose elektronike, 
+prezantime 
+raporte. 
+
+
+            AVANTAZHET DHE DISAVANTAZHET
+--- Folia 10 ---
+SHEMBULLI 11.1 – KOMUNIKIMI I PËRDITSHËM
+Shumë menaxherë projektesh ju eshte dashur të harxhojnë   kohë duke dëgjuar për cështjen  te ndryshme dhe të kapin shenja të tjera shqetësimi përpara se të marrin  vendime ose të ndërmarrin ndonjë veprim. 
+Ndonjëherë këto gjëra rrjedhin në drejtimin e tyre dhe  zgjidhen nga ata që janë të përfshirë, por në disa raste menaxheri i projektit duhet të ndërhyjë për të reduktuar nivelin e ankthit ose për të zgjidhur një problem që po ngadalëson punën.
+--- Folia 11 ---
+MENAXHIMI I RRJEDHËS SË INFORMACIONIT
+Dy fusha të informacionit:
+Informim rreth asaj që duhet të ndodhë, kur dhe si do të ndodhë. 
+
+Informacion rreth asaj që po ndodh aktualisht në mënyrë që të konfirmohet përfundimi i planeve dhe të bëhen 
+
+(përdoruesit e shërbimeve dhe publikun e gjerë  kanë nevojë për të dy tipet e informacionit).
+--- Folia 12 ---
+Pyetjet kryesore në menaxhimin e rrjedhjes së informacionit janë:
+Kush do informacion?
+Për cfarë informacioni kanë nevojë?
+Kush mund tja japi këtë informacion?
+Kur e duan atë?
+Për cfarë ju duhet?
+Si e duan atë?
+Ku e duan atë?
+Cfarë mund të pengojë komunikimin me ta?
+--- Folia 13 ---
+Informacioni mire eshte:
+Relevant (është informacioni që duhet për qëllimin)
+I qartë (prezantuar në format dhe gjuhë të thjeshtë)
+I saktë (pa gabime dhe jo corientues)
+Në kohë (informacioni është i përditësuar, dërgohet dhe merret në kohën e duhur)
+I duhuri (informacioni i duhur dërgohet dhe merret nga personat e duhur)
+--- Folia 14 ---
+Për të identifikuar nevojat për informacion është duke punuar përmes
+Planeve në cdo fazë të projektit, duke marrë më konsideratë kush bën cfarë dhe se cfarë informacioni i duhet për ta bërë këtë. 
+Më pas mund të gjykoni sesi mund të sigurohet informacioni. 
+Për të qënë i dobishëm, informacioni duhet të sigurohet në      kohën e duhur dhe në formatin që është i volitshëm.
+--- Folia 15 ---
+SHEMBULLI 11.2 – TAKIMET EFEKTIVE
+Komunikimi efektiv përfshin: 
+
+Dhënien e informacionit, 
+Mbledhjen e informacionit 
+Dëgjimin e njërëzve.
+--- Folia 16 ---
+Për të siguruar një drejtim të qetë të projektit mund tju duhen:
+Minuta takimesh formale që ecin sipas një programi të përshtatshëm të projektit;
+Takime me sponsorat;
+Takimet e progresit me ekipin ose ekipet;
+Takime indiviuale një nga një me anëtarët e ekipit;
+Takime për zgjidhjen e problemeve, kur cështje të caktuara kanë nevojë të zgjidhen.
+--- Folia 17 ---
+Takimet kanë nevojë për:
+Një qëllim e fokus të qartë në program. 
+ Të kufizuara në kohë dhe t’i jepet prioriteti i duhur ditor,pa kosto te   larte. 
+    E rendesishme eshte të pyesni veten:
+Kush duhet të informohet?
+Për cfarë?
+Sa shpesh?
+Me cfarë mjetesh?
+--- Folia 18 ---
+Ka nevoje per:
+Monitorime (mbikqyrje) 
+
+Rishikime formale (panorama e progresit te projektit)
+
+Sisteme raportimi (raportet e gjendjes se projektit)
+--- Folia 19 ---
+RAPORTI I STATUSIT (GJENDJES) SË PROJEKTIT
+Raportet e statusit të projektit janë raporte të rregullta formale. Ju mund të vendosni se sa shpesh duhet të bëhen në varësi të madhësisë dhe natyrës së projektit, por zakonisht janë javore, mujore dhe 4 mujore. 
+
+Mund të jenë të nevojshme  raportet ditore
+--- Folia 20 ---
+Formë standarde raporti
+Titullin e projektit;
+Fazat kryesore ose detyrat e mbuluara nga ky raport;
+Emrin e personi përgjegjës për këtë detyrë ose fazë;
+Datën e raportit;
+Progresin aktual të raportuar përkundrejt progresit të planifikuar drejt arritjes së
+“milestoneve”
+Shpjegimin e ndonjë vonese ose ndonjë veprimi riparues të ndërmarrë;
+Ndonjë shqetësim i parashikuar ose ndonjë cështje që pret të zgjidhet;
+Milestone për raport progresin e ardhshëm dhe datën e raportit të ardhshëm;
+--- Folia 21 ---
+SHEMBULLI 11.3 – PANORAMA/VIZIONI/OVERVIEË DHE DETAJET
+Një menaxher i burimeve që punonte për një qendër të madhe trajnimi me bazë në një spital na tregoi eksperiencën personale të raportimit në një nivel të ndryshëm nga ky që kishte tani.                                      Ai tha:
+“Mu kërkua të bëja një prezantim për shefin ekzekutiv rreth zhvendosjes së akomodimit tonë rezidencial dhe isha vërtet i shqetësuar se do të më kërkonte t’i shpjegoja se pse ishim kaq shumë jashtë programit të planifikuar. Ne gjetëm asbest në një prej tavaneve dhe në mënyrë të menjëhershme u ndërpre puna dhe thirrëm specialistët për ta hequr. Kjo shkaktoi vonesa në gjithcka.
+--- Folia 22 ---
+Vazhdim…
+Në disa projekte është e rëndësishme të sigurojmë informacion jo vetëm për stakeholderat, por gjithashtu edhe për publikun e gjerë.
+Shpesh, ka interes për projektin nga burime të jashtme dhe mund të duhet të sigurohet informacion për median ose bordet e interesave publike. 
+Duke marrë në konsideratë dhënien e informacionit është gjithashtu e rëndësishme të mendohet se cfarë përgatitjeje është e nevojshme për t’u përballur me pyetjet dhe përgjigjet.
+--- Folia 23 ---
+AKTIVITETI 11.1
+Koha në dispozicion 10 minuta
+
+Kur përgatisni një raport progresi për projektin, cilat pyetje kryesore mendoni se stakeholderat
+do të duhan që ju t’i përgjigjeni?
+1…
+2…
+3…
+--- Folia 24 ---
+Ne mendojmë se pyetjet kryesore janë:
+A është projekti brenda kohës së parashikuar?
+ A është ai brenda buxhetit të alokuar?
+ A janë arritur Milestonet?
+ Nëse jo, cfarë veprimesh duhet ndërmarrë për korrigjimin e   situatës?
+
+
+Pyetje te tjera….
+--- Folia 25 ---
+Vazhdim…
+Në disa projekte është e rëndësishme të sigurojmë informacion jo vetëm për stakeholderat, por gjithashtu edhe për publikun e gjerë.
+
+Shpesh, ka interes për projektin nga burime të jashtme dhe mund të duhet të sigurohet informacion për median ose bordet e interesave publike. 
+
+Duke marrë në konsideratë dhënien e informacionit është gjithashtu e rëndësishme të mendohet se cfarë përgatitjeje është e nevojshme për t’u përballur me pyetjet dhe përgjigjet.
+--- Folia 26 ---
+KU ËSHTË I NEVOJSHËM INFORMACIONI?
+Informacioni shpesh duhet në vendet që janë larg bazës së projektit.
+ 
+Kontakt ballë për ballë dhe që menaxheri të duket herë pas herë në të gjitha vendet e projektit.
+
+Një bashkëveprim jo-verbal eshte me I pasur.
+
+Mund të bëhet një drekë e përbashkët me mundësi për bashkëveprim social.
+--- Folia 27 ---
+AKTIVITETI 11.2
+Koha në dispozicion 10 minuta
+
+Mbani disa shënime sesi mund të realizoni prezantimin e një projekti, duke përfshire, se kë do te ftoni dhe se cfarë do bëni atë ditë?
+
+Cdo prezantim projekti është i ndryshëm dhe do të duhet të gjeni një vend të përshtatshëm që mund të rrisë imazhin e projektit dhe të siguroheni që të jetë i aksesueshëm për personat me  aftësi të kufizuara. 
+
+Ju duhet të dërgoni ftesat dhe kjo është një mundësi e mirë për të treguar partneritet dhe bashkëpunim duke përfshirë emrat e duhur dhe logot.
+--- Folia 28 ---
+Atë ditë, ju mund:
+Të prezantoni njerëzit me njëri-tjetrin;
+Prezantoni ekipin e projektit dhe rolet e tyre;
+Të shpjegoni përfitimet e projektit dhe outputet dhe rezultatet e parashikuara;
+Përshkruani planin e projektit;
+Të shpjegoni procedurat e komunikimit;
+T’i përgjigjeni pyetjeve.
+--- Folia 29 ---
+VAZHDIM…
+Prezantimi i projektit ju lejon të përcaktoni “tonet” e komunikimit gjatë eventit. Ju mund ta arranzhoni/arrange atë si formal ose joformal, personal, të aksesueshëm ose të vecuar, shoqëror dhe i hapur ose i mbyllur dhe i tërhequr.
+
+ Sido ta prezantoni veten dhe eventin kjo përcakton modelet e komunikimit në të ardhmen.
+--- Folia 30 ---
+AKSESI NË INFORMACION DHE KONFIDENCIALITETI
+Eshtë shpesh shumë e vështirë të menaxhohet informacioni i cili duhet të mbetet konfidencial dhe që duhet t’i bëhet i disponueshëm vetëm atyre që kanë autoritetin për të pasur akses në të. 
+
+Është e dobishme që në fazat e para të projektit të merret në konsideratë se cilat informacione duhet të mbahen konfidenciale. 
+
+Nëse projekti është brenda kontekstit të organizatës ose grupit të organizatave, mund të ketë udhëzime që drejtojnë menaxhimin e informacionit. 
+
+Nëse nuk ka udhëzime të disponueshme duhet të siguroheni se po zbatoni kërkesat ligjore.
+--- Folia 31 ---
+Një numër fushash që mund tëjenë shqetësuese për një projekt:
+Të drejtat e njerëzve për të shikuar informacionin e mbajtur për veten e tyre në dosjet personale;
+Duhet të mbahen dhe regjistrohen vetëm të dhënat e nevojshme për qëllimin;
+Këto të dhëna duhet të jenë të sakta, të përditësuara dhe të mbahen për aq kohë sa janë të nevojshme për atë qëllim;
+Të dhënat duhet të përdoren vetëm për qëllimin për të cilin janë mbledhur.
+--- Folia 32 ---
+Përgjegjësitë per ruajtjen e informacionit përfshijnë:
+Konfidencialitetin. (Aksesi tek të dhënat duhet të jetë i kufizuar vetëm për ata që kanë nevojë ta dijnë dhe kanë autoritetin për t’i parë të dhënat. Nëse nuk ruhet konfidencialiteti, lindin probleme të zbulimit dhe duhet të adresohen)
+Integritetin. (Të dhënat duhet të jenë të sakta dhe të plota nëse duam t’i përdorim efektivisht)
+Disponueshmërinë. (Të dhënat duhet të jenë të disponueshme për t’u përdorur kur kërkohen nga ata që janë të autorizuar për t’i përdorur).
+--- Folia 33 ---
+CFARË MUND TA PENGOJË KOMUNIKIMIN EFEKTIV?
+Mungesa e qartësisë (në mesazh ose në mënyrën sesi ai është prezantuar)
+
+Trasmetimi i varfër (një listë instruksionesh në telefon ndërkohë që një listë e shkruar do të ishte më e mirë ose instruksione të shkruara kur një demostrim do të ishte më I mirë)
+
+Dështim për të siguruar se mesazhi është marrë dhe kuptuar.
+
+Dështim në përcaktimin e kanaleve të duhura të komunikimit (njerëz të cilët duhet të jenë në kontakt me njëri-tjetrin nuk e dinë farë ekzistencën e njëri tjetrit)
+--- Folia 34 ---
+Vazhdim…
+Keqkuptime (një mesazh mund të kuptohet në një mënyrë tjetër nga ajo që është synuar, ndonjëherë si rezultat i kalimit disa herë)
+
+Interferencat (një mesazh nuk është dëgjuar sic duhet ose mund të jetë tërhequr vëmendja për shkak të zhurmës, diskomfortit ose eventeve shpërqëndruese)
+
+Personi që e ka marrë mesazhin nuk e ka kuptuar rëndësinë e tij për shkak të backgroundit ose rrethanave.

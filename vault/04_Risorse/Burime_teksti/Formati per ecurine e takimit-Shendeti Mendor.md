@@ -1,0 +1,28 @@
+---
+kodi: BUR-Formati per 
+titulli: "Burim teksti: Formati per ecurine e takimit-Shendeti Mendor"
+burimi: "extracted/Formati per ecurine e takimit-Shendeti Mendor.txt"
+tags: [burim, tekst-i-nerre]
+statusi: "Referencë"
+data_krijimit: 2026-11-02
+---
+
+# 📄 Formati per ecurine e takimit-Shendeti Mendor
+
+> [!note] Tekst i nxjerrë automatikisht nga dokumenti origjinal Office. Përdoret si burim citimi për [[RASTI - Fondi Social 2024 dhe Bashkia Patos|Rastin Fondi Social/Patos]].
+
+Shënime për progresin e menaxhimit të rastit		Punonjësi/ja_________________________
+							ID e klientit__________________________
+							Data_________________________
+							Ora__________________________
+Nevojat e adresuara			
+Rezultatet e arritura
+Hapat e mëtejshëm/Kush është përgjegjës
+Plotëso datën dhe orën e takimit tjetër
+Progresi drejt arritjes së objektivave në Planin Individual
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+Firma_________________________
+*Keto shënime janë konfidenciale. Klientët kanë të drejtë të kërkojnë apo shohin shënimet për ta.
