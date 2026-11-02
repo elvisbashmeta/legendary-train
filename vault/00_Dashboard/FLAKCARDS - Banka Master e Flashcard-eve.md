@@ -133,3 +133,27 @@ Qëndrueshmëria 3 dimensionet? :: Financiare (diversifikim), Organizative (tras
 
 > [!tip] Sesion interleaving (javën e tretë)
 > Përzier kartela nga 3 lëndë në të njëjtin sesion — truri mëson të *zgjedhë* metodën, jo vetëm ta riprodhojë. Ky është sekreti i përgatitjes për 4 provime në të njëjtin semestër.
+
+
+## 🆕 Bllok 90-plus: Kapitujt 9, 11, 14 nga slides zyrtare (shtuar 2026-11-02)
+
+#flashcards/MPS #flashcards
+
+Numri optimal i anëtarëve në një ekip projekti sipas Kapitullit 9? :: 6–8 persona; ekipet më të mëdha humbin efektivitetin.
+Parimi i ndarjes së përgjegjësive në implementim? :: "Çdo copëz pune zotërohet nga dikush" — përgjegjësi e qartë për çdo detyrë/fazë.
+Katër gjërat që çdo anëtar ekipi duhet t'i dijë? :: Çfarë pritet (objektiva me afat); shkalla e autoritetit; menaxheri i linjës; ritmi i raportimit.
+Pse takimi i nisjes së implementimit është i domosdoshëm? :: Që secili të kuptojë ku kontributi i tij përputhet me planin e përgjithshëm — stafi nuk fillon automatikisht.
+Ndryshimi i parashikuar gjatë implementimit si menaxhohet? :: Sipas regjistrit të riskut dhe planit të kontingjencës — kërkon pak udhëheqje.
+Ndryshimi i paparashikuar me domethënie të veçantë? :: Kërko këshillën e sponsorit/menaxherit të lartë PARA ndryshimit të drejtimit/ekuilibrin.
+Komunikimi i dobët në projekt konsiderohet...? :: Risk që kërcënon përfundimin e suksesshëm të projektit.
+Dy fushat e informacionit që duhen menaxhuar? :: Çfarë duhet të ndodhë (kur/se) dhe çfarë po ndodh (konfirmimi i planeve).
+Cilësitë e informacionit të mirë (5)? :: Relevant, i qartë, i saktë, në kohë, i duhuri (personi/channel i duhur).
+Rregulli i minimizimit të të dhënave personale? :: Mbaj vetëm të dhënat e nevojshme për qëllimin; të sakta, të përditësuara, ruaj aq sa duhet, përdor vetëm për atë qëllim.
+Tri përgjegjësitë e ruajtjes së informacionit? :: Konfidencialiteti, Integriteti, Disponueshmëria (CIA).
+Elementët kryesorë të raportit të statusit? :: Progres aktual vs i planifikuar drejt milestone-ve; shpjegim vonesash/veprim riparues; shqetësime; milestone-datat e radhës.
+Pyetjet që stakeholder-at bëjnë gjithmonë (4)? :: Breda kohës? Breda buxhetit? Milestone-t e arritura? Veprimet korrigjuese?
+Bllokuesit e komunikimit efektiv (6)? :: Mungesë qartësie; trasmetim i varfër; pa-verifikim i kuptimit; kanale të papërcaktuara; keqkuptime; interferenca.
+Handover/Dorëzimi si procedurë? :: Formale; shënohet si fazë kyce në gantogramë; me trajnim/mbështetje PARA përdorimit nga klienti.
+Sa pika ka lista e kontrollit të mbylljes (Kap. 14)? :: 12 pika — deliverables, nënshkrime, raporte, financa, rishikim, staf, kontrata, ambiente, materiale, shpallje, arkiv.
+Çfarë është project drift? :: Zvarritja e projektit në tjetrin/detyra ekstra pa shkëputje të qartë — dëmton motivimin; zgjidhet me mbyllje faze + rishikim.
+Pse festohet përfundimi i projektit? :: Tregon besim tek projekti, njeh kontributin dhe mbyll ciklin psikologjik të ekipit para shpërndarjes.

@@ -91,3 +91,6 @@ Shëno ✅ kur e bën; nëse gabon, shëno 🔁 dhe kthehu te kolona e mëparshm
 3. Tipologjitë: Liberal / Korporatist / Social-Demokrat + Mesdhetar + post-komunist.
 4. SMART, WBS, CPM/rruga kritike, VNP, PRAM.
 5. Dekomodifikim & defamilizim.
+
+## Shtesë (2026-11-02): kartat e Kapitujve 9, 11, 14
+Ndonëse slides zyrtar ekzistojnë vetëm për kap. 9, 11, 14 (mankëlojnë 10, 12–13, 15–17), 18 flashcard-at e reja nga [[Folio e Lëndës - MPS Kapitujt 9-14]] janë kopjuar në bankën master — përfshini këto tema te tryeza D+1→D+30 të këtij kalendari.

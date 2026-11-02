@@ -62,4 +62,4 @@ Kodet `statusi: "Për t'u mësuar"` / `"E mësuar"` te temat lexohen nga skripta
 - [ ] 1 temë e re ose e përsëritur me ciklin 5-hapat
 - [ ] 3 rreshta reflektim: Ç'mësova? Ç'shkaka? Ç'riprovohet nesër?
 
-Lidhu me: [[PLAN-JAVOR - Rituali i Studimit]] · [[UDHEZUES - Si të përdor Qwen Coder për këtë repo]]
+Lidhu me: [[PLAN-JAVOR - Rituali i Studimit]] · [[UDHEZUES-QWEN-CODER - Si ta Përdorim për Studim|Udhëzuesi Qwen Coder]]

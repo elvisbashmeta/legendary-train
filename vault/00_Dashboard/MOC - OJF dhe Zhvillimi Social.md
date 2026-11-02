@@ -27,7 +27,7 @@ Shpjegohet çfarë është OJF & kufizimi i shpërndarjes së fitimit → analiz
 
 ### Bloku II — Menaxhimi & burimet
 - [ ] [[05_Menaxhimi_i_OJF]] — misioni, qeverisja, drejtimi, stafi, rreziku
-- [ ] [[06_Financimi_i_OJF]] — burime, buxhet, kontroll financiar, diversifikim *(→ Fondi Social si burim shteti: [[Udhëzues Praktiki - Fondi Social Buxhetor 2024]])*
+- [ ] [[06_Financimi_i_OJF]] — burime, buxhet, kontroll financiar, diversifikim *(→ Fondi Social si burim shteti: [[04_Risorse/Burime_teksti/Udhëzuesi-Fondi-Social-2024|Udhëzuesi Fondi Social 2024 (teksti i nxjerrë)]])*
 - [ ] [[07_Legjislacioni_i_OJF]] — kuadri ligjor & përgjegjësitë e pajtueshmërisë
 - [ ] [[08_Transparence_dhe_Llogasteria]] — llogaridhënia, reagimi ndaj komunitetit, vlerësimi, auditimi
 

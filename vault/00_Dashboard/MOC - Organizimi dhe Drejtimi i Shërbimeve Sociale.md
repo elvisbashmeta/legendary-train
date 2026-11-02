@@ -27,11 +27,11 @@ Përkufizohen shërbimet sociale → shpjegohet konteksti institucional → dall
 ### Bloku II — Drejtimi & projektimi
 - [ ] [[Tema 04 - Qeverisja Strategjia dhe Drejtimi]] — bord/këshill, strategji, lidership
 - [ ] [[Tema 05 - Planifikimi dhe Projektimi i Sherbimeve]] — analiza e nevojës, ciklin e projektit, standardet
-- [ ] [[Tema 06 - Menaxhimi i Rastit dhe Praktika e Orientuar nga Personi]] — hapat e menaxlimit të rastit; instrumente si [[Formulari - Ecuria e Takimit të Menaxhimit të Rastit]]
+- [ ] [[Tema 06 - Menaxhimi i Rastit dhe Praktika e Orientuar nga Personi]] — hapat e menaxlimit të rastit; instrumente si [[04_Risorse/Burime_teksti/Formati per ecurine e takimit-Shendeti Mendor|Formatori i takimit (teksti i nxjerrë)]]
 
 ### Bloku III — Burimet & cilësia
 - [ ] [[Tema 07 - Menaxhimi i Burimeve Njerezore dhe Mbikeqyrja]] — HR në shërbime sociale + supervizioni *(→ [[MOC - Administrimi i Burimeve Njerëzore]])*
-- [ ] [[Tema 08 - Menaxhimi Financiar dhe Burimet]] — buxheti, fondet, efikasiteti *(→ [[Udhëzues Praktiki - Fondi Social Buxhetor 2024]])*
+- [ ] [[Tema 08 - Menaxhimi Financiar dhe Burimet]] — buxheti, fondet, efikasiteti *(→ [[04_Risorse/Burime_teksti/Udhëzuesi-Fondi-Social-2024|Udhëzuesi Fondi Social 2024 (teksti i nxjerrë)]])*
 - [ ] [[Tema 09 - Etika Siguria dhe Cilesia e Sherbimit]] — kodi etik, siguria e klientit & stafit, sigurimi cilësisë
 
 ### Bloku IV — Aksesi & vlerësimi
@@ -42,4 +42,4 @@ Përkufizohen shërbimet sociale → shpjegohet konteksti institucional → dall
 
 ## 🧠 Ushtrim mendor (elaborim)
 
-Për çdo temë pyet veten: *"Si do ta shihna këtë në terren — në një QNSS/njësi përkujdesjeje?"* Lidh gjithmonë teorinë me rastin real Patos ([[Shembull i Zbatuar - Aplikimi Bashkia Patos (Fondi Social)]]): shërbim në familje për PAK me SHM = ODSS (ofrimi) + MPS (menaxhimi i projektit) + AKPS (politikat) + ABNJ (stafi 44.000 lekë/muaj).
+Për çdo temë pyet veten: *"Si do ta shihna këtë në terren — në një QNSS/njësi përkujdesjeje?"* Lidh gjithmonë teorinë me rastin real Patos ([[04_Risorse/Burime_teksti/Final_Aplikim_Bashkia Patos_FS  12   Nentor Marinela|Aplikimi Bashkia Patos (teksti i nxjerrë)]]): shërbim në familje për PAK me SHM = ODSS (ofrimi) + MPS (menaxhimi i projektit) + AKPS (politikat) + ABNJ (stafi 44.000 lekë/muaj).

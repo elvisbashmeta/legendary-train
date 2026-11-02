@@ -29,7 +29,7 @@ data_krijimit: 2026-11-02
 - [ ] [[Tema 02 - Shteti i Mirëqenies - Origjina dhe Evolucioni Historik]] — Ligjet e të Varfërve → Bismarck → Beveridge; trekëndëshi i mirëqenies; dekomodifikimi
 - [ ] [[Tema 03 - Tipologjia e Esping-Andersen (Tre Botët e Mirëqenies)]] — Liberal, Korporatist/Konservator, Social-Demokrat
 - [ ] [[Tema 04 - Regjimi Mesdhetar dhe Kritika Feministe (Defamilizimi)]] — Ferrera, klientelizmi, defamilizimi (Jane Lewis)
-- [ ] [[Tema 05 - Shtetet Post-Komuniste në Tranzicion]] — EE/Lindore: varfëria, informaliteti, konvergjenca e pasigurt
+- [ ] [[Tema 05 - Shtetet Post-Komuniste në Tranzicion (Evropa Qendrore dhe Lindore)|Tema 05]] — EE/Lindore: varfëria, informaliteti, konvergjenca e pasigurt
 
 ### Blloku II — Sektori e politikave
 - [ ] [[Tema 06 - Analiza Krahasuese e Sistemeve të Pensioneve]] — Bismarck vs Beveridge, pillet, privatizimi, pikëzat

@@ -26,10 +26,12 @@ data_krijimit: 2026-11-02
 - [[UDHEZUES - Metoda e Studimit me Rikujtim Aktiv]] — si të studiohesh me këtë vault
 - [[PLAN-JAVOR - Rituali i Studimit]] — plani 4-javor dhe blloqet e kohës
 - [[SPACED-REPETITION - Kalendari i Përsëritjes]] — kalendari 1→3→7→14→30 ditë
-- [[FLAKCARDS - Banka Master e Flashcard-eve]] — {{number of flashcards}} kartela me shënimin `#flashcard` që i lexon plugin-i **Spaced Repetition**
+- [[FLAKCARDS - Banka Master e Flashcard-eve]] — 124 kartela me shënimin `#flashcard` që i lexon plugin-i **Spaced Repetition**
 - [[GLOSAR - Fjalori Ndër-lëndës]] — 80+ terma kyç të gjitha lëndëve në një vend
 - [[MATRIKE-KRYQEZORE - Lidhjet Ndër-lëndësive]] — ku takohen fushat (p.sh. Fondi Social = MPS + OJF + ODSS)
-- [[04_Risorse/BURIME - Repo-t e Integruara Teknologjike|Burime teknologjike]] — OpenDeepSearch, Haystack, Weaviate etj.
+- [[RASTI - Fondi Social 2024 dhe Bashkia Patos|Rastet reale]] — laboratori praktik: aplikimi i Bashkia Patos + Aneksi C
+- [[SISTEMI - Si PUNON Kyë Vault (Arkitektura)|Arkitektura e vault-it]] — si funksionon sistemi
+- [[RESEO - Teknologji Open Source që Forcojnë Studimin|Burime teknologjike]] · [[PLUGINS - Shtesat e Nevojshme për Obsidian|Plugins Obsidian]] · [[UDHEZUES-QWEN-CODER - Si ta Përdorim për Studim|Udhëzues Qwen Coder]] — OpenDeepSearch, Haystack, Weaviate etj.
 
 ## 🔥 Rutina e sotme (3 veprime)
 

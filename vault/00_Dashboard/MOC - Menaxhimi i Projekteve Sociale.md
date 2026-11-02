@@ -32,7 +32,7 @@ data_krijimit: 2026-11-02
 ## 🧭 Strategjia e Notës maksimale (100/100)
 
 1. **70% = provimi final** → çdo temë duhet të mbyllet me rikujtim aktiv + flashcards; provime vetes me bankën [[18 - Banka e Pyetjeve dhe Simulimi i Provimit Final (Master Retrieval)|Banka e Pyetjeve]].
-2. **20% = projekt-grupi** → zbrite formatin real të Fondit Social: [[Shembull i Zbatuar - Aplikimi Bashkia Patos (Fondi Social)|Aplikimi Bashkia Patos]] + [[Udhëzues Praktiki - Fondi Social Buxhetor 2024]].
+2. **20% = projekt-grupi** → zbrite formatin real të Fondit Social: [[RASTI - Fondi Social 2024 dhe Bashkia Patos|Shembulli i zbatuar — Aplikimi Bashkia Patos]] + [[04_Risorse/Burime_teksti/Udhëzuesi-Fondi-Social-2024|Udhëzuesi Fondi Social 2024 (teksti i nxjerrë)]].
 3. **10% = aktivizimi** → përgatit 1 pyetje me cilësi për çdo leksion (shënoji te folio e seminarit).
 
 ## 📚 Temat (renditja zyrtare sipas Programit të Lëndës)
@@ -70,11 +70,11 @@ data_krijimit: 2026-11-02
 
 | Dokumenti | Për çfarë të shërben |
 |---|---|
-| [[Shembull i Zbatuar - Aplikimi Bashkia Patos (Fondi Social)]] | Model i plotë i një kërkesë-projekti real: qëllim, analiza, objektiva, rezultate |
-| [[Të Dhënat Financiare - Buxheti Aneksi C Bashkia Patos]] | Si strukturohet buxheti i detajuar (5.007.168 lekë, 24 muaj) |
-| [[Udhëzues Praktiki - Fondi Social Buxhetor 2024]] | Rregullat e lojës: 90/60/30%, 36 muaj, kriteret e vlerësimit |
-| [[Axhenda - Trajnimi Shëndeti Mendor në Komunitete]] | Shembull trajnimi profesionalish |
-| [[Formulari - Ecuria e Takimit të Menaxhimit të Rastit]] | Shembull instrumenti pune sociale (konfidenciale!) |
+| [[04_Risorse/Burime_teksti/Final_Aplikim_Bashkia Patos_FS  12   Nentor Marinela|Aplikimi Bashkia Patos (teksti i nxjerrë)]] | Model i plotë i një kërkesë-projekti real: qëllim, analiza, objektiva, rezultate |
+| [[04_Risorse/Burime_teksti/XLSX_Aneksi-C-Buxheti Bashkia Patos 12   Nentor-2|Buxheti Aneksi C (tabela e nxjerrë)]] | Si strukturohet buxheti i detajuar (5.007.168 lekë, 24 muaj) |
+| [[04_Risorse/Burime_teksti/Udhëzuesi-Fondi-Social-2024|Udhëzuesi Fondi Social 2024 (teksti i nxjerrë)]] | Rregullat e lojës: 90/60/30%, 36 muaj, kriteret e vlerësimit |
+| [[04_Risorse/Burime_teksti/Axhenda e trajnimit te profesionisteve|Axhenda e trajnimit (teksti i nxjerrë)]] | Shembull trajnimi profesionalish |
+| [[04_Risorse/Burime_teksti/Formati per ecurine e takimit-Shendeti Mendor|Formatori i takimit (teksti i nxjerrë)]] | Shembull instrumenti pune sociale (konfidenciale!) |
 
 ## 🔁 Cikli i studimit për këtë lëndë
 

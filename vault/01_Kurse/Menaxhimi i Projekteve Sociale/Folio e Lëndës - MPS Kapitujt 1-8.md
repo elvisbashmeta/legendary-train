@@ -95,4 +95,4 @@ data_krijimit: 2026-11-02
 > Jo — por konsumon buffer-in; monitorohet sepse vonesa e dytë e kalon rrugën kritike.
 
 ---
-🔗 Vazhdon te [[Folio e Lëndës - MPS Kapitujt 9-17 dhe materialet shtesë]] · Lidhu me [[MOC - Menaxhimi i Projekteve Sociale]]
+🔗 Vazhdon te [[Folio e Lëndës - MPS Kapitujt 9-14|Folio MPS Kapitujt 9–14]] · Lidhu me [[MOC - Menaxhimi i Projekteve Sociale]]
