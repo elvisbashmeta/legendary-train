@@ -26,7 +26,7 @@ vault/
 
 ## Konventat që e mbajnë sistemin të gjallë
 - **Frontmatter** (`statusi`, `kursi`, `kapitulli`) → ushqen Dataview. Ndrysho `statusi: "Për t'u mësuar"` → `"Të mësuar"` pasi kalon vet-testin me ≥80%.
-- **Wiki-links `[[ ]]`** → çdo temë lidhet me MOC-në dhe me fqinjët (⬅️ ➡️). Lidhjet e kuqe = skedar që mund ta krijoni (p.sh. leksionet që mungojnë).
+- **Wiki-links me kllapa katrore** → çdo temë lidhet me MOC-në dhe me fqinjët (⬅️ ➡️). Lidhjet e kuqe = skedar që mund ta krijoni (p.sh. leksionet që mungojnë).
 - **Flashcards `Pyetje :: Përgjigje`** → format universal; nëse s'keni plugin, mbulo pjesën pas `::`.
 - **Emërtimi**: `Tema NN - Titull.md`; pa karaktere të ndaluara (`/ \ : * ? " < > |`).
 
