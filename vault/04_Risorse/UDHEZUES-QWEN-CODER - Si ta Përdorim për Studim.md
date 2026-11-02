@@ -28,7 +28,7 @@ Mos kopjo fraze nga dokumenti — rikthe konceptin me gjuhën tënde.
 ```
 ### B. Simulim provimi (retrieval practice)
 ```
-Si profesor i FSHS, zbulo 10 pyetje të hapura mbi `[[Tema ... (emri i temës)] |Tema e zgjedhur]]` me barazh 40%
+Si profesor i FSHS, zbulo 10 pyetje të hapura mbi `[[<emri i temës tënde>|tema që po studion]]` me barazh 40%
 mësim bazik / 40% analizë / 20% rast. Mbylli në fund me "Udhëzues pikësh"
 sipas modelit 10/20/70 (shih MOC - Menaxhimi i Projekteve Sociale).
 ```
